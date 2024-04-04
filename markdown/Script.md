@@ -22,11 +22,15 @@ Fläche des Dreiecks hier einfügen und das Skript speichern:
 ![img.png](../img/ScriptAllgemeinesDreieck.png)
 
 Wenn du das Script nun laufen lässt ![img_1.png](../img/ScriptAusführen.png), 
-sieht danach das Variablenfenster so aus:
+werden alle Zeilen nacheinander ausgeführt. In jeder Zeile steht eine Anweisung.
+Wenn das Script fertig ist, sieht das Variablenfenster so aus:
 
 ![img_2.png](../img/VariablenFensterAllgemeinesDreieck.png)
 
-Du kannst aber auch am Ende des Skripts die berechnete Fläche mit print ausgeben:
+Beim Ausführen eines Skripts werden die zuvor definierten Variablen gelöscht 
+und dafür die neuen Variablen von den Anweisungen des Scripts angelegt.
+
+Du kannst auch am Ende des Skripts die berechnete Fläche mit print ausgeben:
 
 ```python
 a = 3
@@ -38,14 +42,16 @@ print("Fläche: ", flaeche)
 ```
 
 Wenn du das Skript nun laufen lässt, 
-wird die Fläche des Dreiecks in der Kommandozeile ausgegeben:
+wird die Fläche des Dreiecks in der Kommandozeile ausgegeben. Die Anweisung print(...) 
+gibt also das, was zwischen den Klammern steht, auf der Konsole aus.
 
 ```python
 >>> %Run allgemeines_dreieck.py
 Fläche:  6.0
 ```
 
-
+Wenn du nun die Fläche von mehreren verschiedenen Dreiecken berechnen willst, 
+kannst du jedes Mal die Seitenlängen (a, b, c) ändern und das Skript erneut laufen lassen.
 
 
 [<<](Variablen.md) &emsp; [>>](EinAusgabe.md)
