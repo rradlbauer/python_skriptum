@@ -60,14 +60,68 @@ $A = \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s - c)}$
 $s = \frac{a + b + c}{2}$
 
 ```python
->>> a = 3
->>> b = 4
->>> c = 5
->>> s = (a + b + c) / 2
->>> flaeche = (s * (s - a) * (s - b) * (s - c)) ** 0.5
+>>> s = (3 + 4 + 5) / 2
+>>> flaeche = (s * (s - 3) * (s - 4) * (s - 5)) ** 0.5
 >>> flaeche
 6.0
 ```
+
+## Inhalte von Variablen
+
+Wir haben also gesehen, dass wir Werte in Variablen speichern und später wieder verwenden können.
+
+Den Inhalt einer Variablen kannst du aber auch verändern:
+
+```python
+>>> a = 5
+>>> a
+5
+>>> a = a + 1
+>>> a
+6
+``` 
+
+Bisher haben wir nur Zahlen in Variablen gespeichert.
+Du kannst aber auch andere Objekte in Variablen speichern, z.B. Text:
+
+```python
+>>> text = "Hallo, Welt!"
+>>> text
+'Hallo, Welt!'
+``` 
+
+... oder zusammengesetzte Objekte:
+
+```python
+>>> liste = [1, 2, 3]
+>>> liste
+[1, 2, 3]
+```
+
+(Die Liste besteht also aus 3 Zahlen.)
+
+Im Variablenfenster würde das dann so aussehen:
+
+![img.png](../img/Variablenfenster3.png)
+
+Später werden wir noch viele weitere Arten von Objekten kennenlernen, die wir in Variablen speichern können.
+
+## Übungen
+
+- Speichere einige Daten von dir in Variablen, z.B. Name, Alter, Größe, Gewicht, Lieblingsfarbe, Lieblingsessen, ...
+Überprüfe, ob die Variablen korrekt gespeichert wurden, indem du sie dir anzeigen lässt.
+- Berechne beide Lösungen der quadratischen Gleichung $3x^2 + 2x - 33 = 0$ 
+und speichere sie in 2 Variablen
+Verwende dafür die [allgemeine Lösungsformel für quadratische Gleichungen](https://de.wikipedia.org/wiki/Quadratische_Gleichung#a-b-c-Formel).
+Hinweis: du kannst dafür natürlich auch noch weitere Hilfsvariablen verwenden.
+- Speichere die Körpergrößen von dir und 2 deiner Kollegen in Variablen.
+Berechne mit Hilfe dieser Variablen den Durchschnitt eurer Körpergrößen.
+- Berechne so wie im oben angeführten Beispiel die Flächen von folgenden weiteren Dreiecken:
+   - Seitenlängen 3.5, 4.1, 5.7
+   - Seitenlängen 2.3, 3.4, 4.5
+   - Seitenlängen 5.6, 6.7, 7.8
+
+    Tipp: du kannst dir die Arbeit erleichtern, indem du auch für die Seitenlängen Variablen verwendest.
 
 
 
