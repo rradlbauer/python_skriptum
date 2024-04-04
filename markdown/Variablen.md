@@ -49,5 +49,27 @@ Das gute an Variablen ist, dass du sie später wieder verwenden kannst:
 
 Wie du in diesem Beispiel siehst, kannst du den Wert einer Variable auch anzeigen lassen, indem du einfach den Variablennamen eingibst.
 
+## Kompliziertere Berechnungen mit Hilfe von Variablen
+
+Variablen sind besonders nützlich, wenn du kompliziertere Berechnungen durchführen möchtest.
+Hier ein Beispiel, bei dem wir die Fläche eines Dreiecks mit der 
+[Formel von Heron](https://www.arndt-bruenner.de/mathe/9/herondreieck.htm) berechnen:
+
+$A = \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s - c)}$
+
+$s = \frac{a + b + c}{2}$
+
+```python
+>>> a = 3
+>>> b = 4
+>>> c = 5
+>>> s = (a + b + c) / 2
+>>> flaeche = (s * (s - a) * (s - b) * (s - c)) ** 0.5
+>>> flaeche
+6.0
+```
+
+
+
 
 [<<](PythonAlsTaschenrechner.md) &emsp; [>>](Script.md)
