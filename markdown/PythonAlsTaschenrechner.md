@@ -23,3 +23,5 @@ $BMI = \frac{Gewicht}{Größe^2}$ (Gewicht in kg, Größe in m)
 $F = C \cdot \frac{9}{5} + 32$
 - deine Körperoberfläche mit der [Gehan-George-Formel](https://de.wikipedia.org/wiki/K%C3%B6rperoberfl%C3%A4che)
 - dein Blutvolumen (ca. 7% deines Körpergewichts)
+
+[<<](ProgrammierenMitPython.md) &emsp; [>>](Variablen.md)
