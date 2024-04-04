@@ -1,0 +1,1 @@
+# Ergebnisse zwischenspeichern - Variablen
