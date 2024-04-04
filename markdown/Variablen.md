@@ -49,3 +49,5 @@ Das gute an Variablen ist, dass du sie später wieder verwenden kannst:
 
 Wie du in diesem Beispiel siehst, kannst du den Wert einer Variable auch anzeigen lassen, indem du einfach den Variablennamen eingibst.
 
+
+[<<](PythonAlsTaschenrechner.md) &emsp; [>>](Script.md)
