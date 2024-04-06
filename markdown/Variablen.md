@@ -95,12 +95,12 @@ Du kannst aber auch andere Objekte in Variablen speichern, z.B. Text:
 ... oder zusammengesetzte Objekte:
 
 ```python
->>> liste = [1, 2, 3]
->>> liste
-[1, 2, 3]
+>>> t = ('Susi', 173, 71)
+>>> t
+('Susi', 173, 71)
 ```
 
-(Die Liste besteht also aus 3 Zahlen.)
+(Ein Objekt, welches aus mehreren Werten in runden Klammern besteht, nennt man Tupel.)
 
 Im Variablenfenster sieht das dann so aus:
 

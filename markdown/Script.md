@@ -53,5 +53,41 @@ Fläche:  6.0
 Wenn du nun die Fläche von mehreren verschiedenen Dreiecken berechnen willst, 
 kannst du jedes Mal die Seitenlängen (a, b, c) ändern und das Skript erneut laufen lassen.
 
+## Kommentare
 
-[<<](Variablen.md) &emsp; [>>](EinAusgabe.md)
+In einem Skript kannst du auch Kommentare einfügen.
+Ein Kommentar ist ein Text, der von Python ignoriert wird.
+Er dient dazu, den Code zu dokumentieren und zu erklären.
+
+Ein Kommentar wird mit einer Raute `#` eingeleitet.
+Alles, was nach der Raute steht, wird von Python ignoriert.
+
+```python
+# Berechnung der Fläche eines allgemeinen Dreiecks
+a = 3
+b = 4
+c = 5
+s = (a + b + c) / 2
+flaeche = (s * (s - 3) * (s - 4) * (s - 5)) ** 0.5
+print("Fläche: ", flaeche)
+```
+
+## Übungen
+
+Füge in allen Scripts, welche du für diese Aufgaben schreibst, Kommentare ein, 
+welche die wesentlichen Schritte erklären.
+Es ist auch oft üblich, den Autor und das Datum des Scripts zu Beginn zu vermerken.
+
+- Berechne nun mit Hilfe eines Python scripts die Flächen von mehreren Dreiecken:
+  - Seitenlängen: a = 3.1, b = 4.3, c = 3.7
+  - Seitenlängen: a = 2.1, b = 3.5, c = 4.9
+  - Seitenlängen: a = 3.6, b = 7.7, c = 6.8
+  
+- Schreibe ein Script, welches deine Körperoberfäche mit der 
+[Gehan-George-Formel](https://de.wikipedia.org/wiki/K%C3%B6rperoberfl%C3%A4che) berechent: 
+Definiere zuerst Variablen mit deinem Gewicht und deiner Größe und berechne dann die Körperoberfläche.
+Ändere das Script dann, damit du auch die Körperoberfläche von 2 deiner Freunde berechnen kannst.
+- Schreibe ein Script, welches jeweils den Namen und das Geburtsdatum von dir und 2 deiner Freunde mit print() ausgibt.
+
+
+[<<](Variablen.md) &emsp; [>>](Debugger.md)
