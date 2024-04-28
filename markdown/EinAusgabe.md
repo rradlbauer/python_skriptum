@@ -120,6 +120,24 @@ Länge der 3. Seite: 4.3
 Fläche des Dreiecks:  4.2794976340687425
 ```
 
+## Übungen
+- Teile das Skript oben gezeigte Skript in zwei Skripte auf:
+  - ein Skript, das die Funktion `dreiecks_flaeche` definiert
+  - ein Skript, das die Funktion aufruft und die Ein- und Ausgabe macht.
+  
+
+- Schreibe ein Skript, welches Benutzer nach Gewicht in kg und
+    Größe in cm fragt und den Body Mass Index (BMI) berechnet und ausgibt.
+    Der BMI wird nach folgender Formel berechnet:
+
+        $BMI = \frac{Gewicht}{Größe^2}$ (Gewicht in kg, Größe in m)
+
+    ACHTUNG: Die Größe muss in Meter umgerechnet werden.
+
+
+
+
+
 [<<](Module.md) &emsp; [>>](IfElse.md)
 
 
