@@ -2,11 +2,14 @@
 
 Im Abschnitt [Funktionen](Funktionen.md) hast du kennengelernt, 
 wie du Funktionen selbst definieren und aufrufen kannst. 
-Es gibt aber auch sehr viele Funktionen, die in Python
-bereits definiert sind und die du einfach verwenden kannst.
+Es gibt aber auch sehr viele Funktionen, die bereits jemand definiert hat,
+und die du einfach verwenden kannst.
 
-Diese Funktionen sind in sogenannten Modulen organisiert.
+Einige wenige Funktionen sind bereits in Python eingebaut, 
+aber die meisten Funktionen sind in sogenannten Modulen organisiert.
+
 Ein Modul ist eine Sammlung von Funktionen, die zu einem bestimmten Thema gehören.
+Zum Beispiel gibt es das Modul `math`, das mathematische Funktionen enthält.
 
 ## Funktionen von Modulen importieren
 
@@ -22,3 +25,81 @@ Dann kannst du die Funktion `sqrt` verwenden, um die Quadratwurzel einer Zahl zu
 ```python
 >>> x = sqrt(9)
 ```
+
+Wenn du mehrere Funktionen aus einem Modul importieren möchtest, kannst du das so machen:
+
+```python
+>>> from math import sqrt, sin, cos
+```
+
+Du kannst aber auch alle Funktionen eines Moduls importieren:
+
+```python
+>>> from math import *
+```
+
+Im Variablenfenster siehst du dann alle Funktionen, die du importiert hast.
+Wenn du zu einer Funktion Hilfe benötigst, kannst du die Funktion `help` verwenden:
+
+```python
+>>> help(sqrt)
+```
+
+### Installation von Modulen
+
+Manche Module sind bereits in Python enthalten,
+aber es gibt auch viele Module, die nicht in Python enthalten sind.
+Diese Module musst du zuerst installieren, bevor du sie verwenden kannst.
+Mit der Installation von solchen Modulen werden wir uns später beschäftigen.
+
+
+## Deine eigenen Module
+
+Du kannst auch deine eigenen Module erstellen.
+Dazu schreibst du einfach die Funktionen in eine Datei mit der Endung `.py`,
+so wie du es bei deinen eigenen Scripts gemacht hast (siehe [Python Script](Script.md)).
+
+Wenn du dann in einem anderen Script oder in der Python Konsole (Kommandozeile) 
+diese Funktionen verwenden möchtest,
+musst sie aus deinem Modul importieren, 
+so wie du es bei den Modulen von anderen Autoren gemacht hast.
+
+### Beispiel
+
+Hier ein Beispiel für ein Modul `mein_modul.py`:
+
+```python
+def flaeche_rechteck(a, b):
+    '''Berechnet die Fläche eines Rechtecks mit den Seitenlängen a und b'''
+    return a * b
+
+def flaeche_dreieck(a, b, c):
+    '''Berechnet die Fläche eines Dreiecks mit den Seitenlängen a, b und c'''
+    s = (a + b + c) / 2
+    return (s * (s - a) * (s - b) * (s - c)) ** 0.5
+```
+
+Wenn du Funktionen aus diesem Modul in einem anderen Script 
+oder in der Kommandozeile verwenden möchtest,
+musst du sie importieren:
+
+```python
+>>> from mein_modul import flaeche_rechteck, flaeche_dreieck
+```
+
+Dann kannst du die Funktionen `flaeche_rechteck` und `flaeche_dreieck` verwenden.
+
+Wenn du so wie im Beipiel gezeigt bei jeder deiner Funktionen 
+eine kurze Beschreibung als Doc-String-Kommentar 
+(mit `'''` am Beginn und Ende) schreibst,
+kannst du später mit `help(flaeche_rechteck)` oder `help(flaeche_dreieck)`
+die Beschreibung deiner Funktionen sehen.
+
+*HINWEIS: Wenn du ein Modul änderst, musst du es neu laden,
+damit die Änderungen wirksam werden. Am einfachsten geht das, wenn du
+in die Kommandozeile mit `exit()` neu startest und das Modul neu importierst.
+(Vorher speichern nicht vergessen)*
+
+
+
+[<<](Funktionen.md) &emsp; [>>](EinAusgabe.md)
