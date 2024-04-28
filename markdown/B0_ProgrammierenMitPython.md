@@ -25,4 +25,4 @@ Welche Fenster dort sichtbar sind, kannst du über das Menu "Ansicht" steuern.
 
 
 
-[<<](UeberDiesesSkriptum.md) &emsp; [>>](PythonAlsTaschenrechner.md)
+[<<](A0_UeberDiesesSkriptum.md) &emsp; [>>](C0_PythonAlsTaschenrechner.md)

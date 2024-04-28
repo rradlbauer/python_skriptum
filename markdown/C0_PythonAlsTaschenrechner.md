@@ -24,4 +24,4 @@ $F = C \cdot \frac{9}{5} + 32$
 - deine Körperoberfläche mit der [Gehan-George-Formel](https://de.wikipedia.org/wiki/K%C3%B6rperoberfl%C3%A4che)
 - dein Blutvolumen (ca. 7% deines Körpergewichts)
 
-[<<](ProgrammierenMitPython.md) &emsp; [>>](Variablen.md)
+[<<](B0_ProgrammierenMitPython.md) &emsp; [>>](D0_Variablen.md)

@@ -90,4 +90,4 @@ Definiere zuerst Variablen mit deinem Gewicht und deiner Größe und berechne da
 - Schreibe ein Script, welches jeweils den Namen und das Geburtsdatum von dir und 2 deiner Freunde mit print() ausgibt.
 
 
-[<<](Variablen.md) &emsp; [>>](Debugger.md)
+[<<](D0_Variablen.md) &emsp; [>>](F0_Debugger.md)

@@ -1,6 +1,6 @@
 # Module
 
-Im Abschnitt [Funktionen](Funktionen.md) hast du kennengelernt, 
+Im Abschnitt [Funktionen](G0_Funktionen.md) hast du kennengelernt, 
 wie du Funktionen selbst definieren und aufrufen kannst. 
 Es gibt aber auch sehr viele Funktionen, die bereits jemand definiert hat,
 und die du einfach verwenden kannst.
@@ -57,7 +57,7 @@ Mit der Installation von solchen Modulen werden wir uns später beschäftigen.
 
 Du kannst auch deine eigenen Module erstellen.
 Dazu schreibst du einfach die Funktionen in eine Datei mit der Endung `.py`,
-so wie du es bei deinen eigenen Scripts gemacht hast (siehe [Python Script](Script.md)).
+so wie du es bei deinen eigenen Scripts gemacht hast (siehe [Python Script](E0_Script.md)).
 
 Wenn du dann in einem anderen Script oder in der Python Konsole (Kommandozeile) 
 diese Funktionen verwenden möchtest,
@@ -102,4 +102,4 @@ in die Kommandozeile mit `exit()` neu startest und das Modul neu importierst.
 
 
 
-[<<](Funktionen.md) &emsp; [>>](EinAusgabe.md)
+[<<](G0_Funktionen.md) &emsp; [>>](I0_EinAusgabe.md)

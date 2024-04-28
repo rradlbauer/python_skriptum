@@ -39,4 +39,4 @@ Beispiel:
 
 
 
-[<<](Script.md) &emsp; [>>](Funktionen.md)
+[<<](E0_Script.md) &emsp; [>>](G0_Funktionen.md)

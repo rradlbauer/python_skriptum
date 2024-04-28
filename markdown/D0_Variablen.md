@@ -128,4 +128,4 @@ Berechne mit Hilfe dieser Variablen den Durchschnitt eurer Körpergrößen.
 
 
 
-[<<](PythonAlsTaschenrechner.md) &emsp; [>>](Script.md)
+[<<](C0_PythonAlsTaschenrechner.md) &emsp; [>>](E0_Script.md)

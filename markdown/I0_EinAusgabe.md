@@ -121,7 +121,7 @@ Fläche des Dreiecks:  4.2794976340687425
 ```
 
 ## Übungen
-- Teile das Skript oben gezeigte Skript in zwei Skripte auf:
+- Teile das oben gezeigte Skript in zwei Skripte auf:
   - ein Skript, das die Funktion `dreiecks_flaeche` definiert
   - ein Skript, das die Funktion aufruft und die Ein- und Ausgabe macht.
   
@@ -138,7 +138,7 @@ Fläche des Dreiecks:  4.2794976340687425
 
 
 
-[<<](Module.md) &emsp; [>>](IfElse.md)
+[<<](H0_Module.md) &emsp; [>>](J0_IfElse.md)
 
 
 

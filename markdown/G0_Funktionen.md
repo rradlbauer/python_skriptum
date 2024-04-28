@@ -126,7 +126,7 @@ weil sie nur innerhalb der Funktion definiert sind.
 Sobald die Funktion beendet ist, sind diese Variablen nicht mehr verfügbar.
 
 
-[<<](Debugger.md) &emsp; [>>](Module.md)
+[<<](F0_Debugger.md) &emsp; [>>](H0_Module.md)
 
 
 
