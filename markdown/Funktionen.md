@@ -102,6 +102,14 @@ sind nur innerhalb der Funktion `dreiecks_flaeche` definiert und können
 nicht außerhalb dieser Funktion verwendet werden. 
 Du siehst sie auch nicht im normalen Variablen-Fenster.
 
+## Vorteil von Funktionen
+
+Der Vorteil von Funktionen ist, dass du den Funktionskörper nur einmal schreiben musst.
+Du kannst die Funktion dann beliebig oft aufrufen, um das Ergebnis zu berechnen.
+In unserem Beispiel haben wir eine Funktion, die die Fläche eines Dreiecks berechnet.
+Diese Funktion können wir nun beliebig oft aufrufen, 
+um die Fläche verschiedener Dreiecke zu berechnen.
+
 ## Debugging von Funktionen
 
 Wenn du eine Funktion mit dem Debugger Schritt für Schritt durchgehen willst, 
@@ -117,6 +125,8 @@ Parameter `a`, `b` und `c` sehen. Die Variablen werden hier lokale Variablen gen
 weil sie nur innerhalb der Funktion definiert sind.
 Sobald die Funktion beendet ist, sind diese Variablen nicht mehr verfügbar.
 
+
+[<<](Debugger.md) &emsp; [>>](Module.md)
 
 
 

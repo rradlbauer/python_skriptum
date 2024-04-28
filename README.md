@@ -7,6 +7,7 @@
 - [Python Script](markdown/Script.md)
 - [Debugger](markdown/Debugger.md)
 - [Funktionen](markdown/Funktionen.md)
+- [Module](markdown/Module.md)
 - [Eingabe und Ausgabe](markdown/EinAusgabe.md)
 - [Fälle unterscheiden - bedingte Anweisungen](markdown/IfElse.md)
 - [Anweisungen wiederholen - Schleifen](markdown/Schleifen.md)
