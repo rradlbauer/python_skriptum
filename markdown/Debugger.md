@@ -25,7 +25,7 @@ Einen Breakpoint setzt du, indem du in der Zeile, bei der du anhalten möchtest,
 Erstelle dabei eine Tabelle, in welcher du nach jeder Zeile des Scripts die Variablenwerte notierst.
 Beispiel:
 
-![img.png](../img/debubbing_variablen.png)   
+![img.png](../img/debugging_variablen.png) 
 
 
 | Zeile | a   | b   | c   | s   | flaeche |
