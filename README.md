@@ -4,6 +4,7 @@
 - [Programmieren mit Python](markdown/B0_ProgrammierenMitPython.md)
 - [Python als Taschenrechner](markdown/C0_PythonAlsTaschenrechner.md)
 - [Ergebnisse zwischenspeichern - Variablen](markdown/D0_Variablen.md)
+- [Datentypen](markdown/D1_Datentypen.md)
 - [Python Script](markdown/E0_Script.md)
 - [Debugger](markdown/F0_Debugger.md)
 - [Funktionen](markdown/G0_Funktionen.md)
