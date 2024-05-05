@@ -103,7 +103,7 @@ end_fill()
 ```
 
 Zugegeben - die Zeichnung ist kein Meisterwerk. Wahrscheinlich kannst du es besser.
-Aber es zeigt dir, wie du mit der Schildkröte zeichnen kannst.
+Aber das Beispiel zeigt dir, wie du mit der Schildkröte zeichnen kannst.
 
 Im Internet gibt es viele Tutorials für das Modul `turtle`.
 Hier ist eines davon:
