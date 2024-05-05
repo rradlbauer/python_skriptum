@@ -113,6 +113,11 @@ Variablen stehen und probiere dann aus, ob du recht hattest.
 >>> z = not c
 ``` 
 
+`bool`-Werte sind besonders nützlich, wenn du bedingte Anweisungen verwenden möchtest.
+Dazu kommen wir in einem späteren Abschnitt.
+
+
+
 ## Weitere Datentypen
 
 Es gibt noch viele weitere Datentypen in Python.
