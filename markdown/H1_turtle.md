@@ -108,6 +108,9 @@ Aber das Beispiel zeigt dir, wie du mit der Schildkröte zeichnen kannst.
 Im Internet gibt es viele Tutorials für das Modul `turtle`.
 Hier ist eines davon:
 
-[Turtle-Modul von Python](https://www.python-lernen.de/python-turtle.htm)
+[Turtle-Modul von Python](https://www.python-lernen.de/python-turtle.htm) 
+*(in diesem Tutorial wird das Modul anders importiert,
+so dass vor jedem Funktionsaufruf der Modulname `turtle` 
+geschrieben werden muss.)*
 
 [<<](H0_Module.md) &emsp; [>>](I0_EinAusgabe.md)
