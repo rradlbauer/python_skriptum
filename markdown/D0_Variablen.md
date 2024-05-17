@@ -11,7 +11,7 @@ Wenn du z.B. das Ergebnis der Berechnung der Fläche eines Rechtecks speichern m
 
 In der Entwicklungsumgebung Thonny gibt es ein Fenster, in dem du die Werte von Variablen sehen kannst:
 
-![img.png](../img/VariablenFenster.png)
+![VariablenFenster.png](../img/D0/VariablenFenster.png)
 
 Falls dieses Fenster bei dir nicht sichtbar ist, 
 kannst du es über das Menu `Ansicht` -> `Variablen` einblenden.
@@ -30,7 +30,7 @@ Groß- und Kleinschreibung wird unterschieden:
 >>> A = 4
 ```
 
-![img.png](../img/Variablenfenster2.png)
+![Variablenfenster2.png](../img/D0/Variablenfenster2.png)
 
 Du solltest Variablennamen so wählen, dass sie aussagekräftig sind. 
 Im oben gezeigten Beispiel ist `f` nicht sehr aussagekräftig.
@@ -104,7 +104,7 @@ Du kannst aber auch andere Objekte in Variablen speichern, z.B. Text:
 
 Im Variablenfenster sieht das dann so aus:
 
-![img.png](../img/Variablenfenster3.png)
+![Variablenfenster3.png](../img/D0/Variablenfenster3.png)
 
 Später werden wir noch viele weitere Arten von Objekten kennenlernen, die wir in Variablen speichern können.
 

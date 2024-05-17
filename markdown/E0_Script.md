@@ -9,23 +9,23 @@ Der Dateiname sollte die Endung `.py` haben.
 
 Im linken oberen Bereich der Entwicklungsumgebung Thonny kann man ein neues Skript erstellen.
 
-![img.png](../img/ScriptEditor.png)
+![ScriptEditor.png](../img/E0/ScriptEditor.png)
 
 Unter der Menu-Leiste findest du Buttons zum 
-Beginnen eines neuen Skripts![img_3.png](../img/ScriptNeu.png)
-zum Speichern ![img_1.png](../img/ScriptSpeichern.png) und 
-Öffnen eines bestehenden Skripts ![img_2.png](../img/ScriptOeffben.png).
+Beginnen eines neuen Skripts![ScriptNeu.png](../img/E0/ScriptNeu.png)
+zum Speichern ![ScriptSpeichern.png](../img/E0/ScriptSpeichern.png) und 
+Öffnen eines bestehenden Skripts ![ScriptOeffben.png](../img/E0/ScriptOeffben.png).
 
 Du kannst nun z.B. die Zeilen vom vorigen Kapitel zur Berechnung der 
 Fläche des Dreiecks hier einfügen und das Skript speichern:
 
-![img.png](../img/ScriptAllgemeinesDreieck.png)
+![ScriptAllgemeinesDreieck.png](../img/E0/ScriptAllgemeinesDreieck.png)
 
-Wenn du das Script nun laufen lässt ![img_1.png](../img/ScriptAusführen.png), 
+Wenn du das Script nun laufen lässt ![ScriptAusführen.png](../img/E0/ScriptAusführen.png), 
 werden alle Zeilen nacheinander ausgeführt. In jeder Zeile steht eine Anweisung.
 Wenn das Script fertig ist, sieht das Variablenfenster so aus:
 
-![img_2.png](../img/VariablenFensterAllgemeinesDreieck.png)
+![VariablenFensterAllgemeinesDreieck.png](../img/E0/VariablenFensterAllgemeinesDreieck.png)
 
 Beim Ausführen eines Skripts werden die zuvor definierten Variablen gelöscht 
 und dafür die neuen Variablen von den Anweisungen des Scripts angelegt.

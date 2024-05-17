@@ -57,7 +57,7 @@ weiter gerechnet werden.
 
 Nach dem Ausführen des Codes hat das Variablen-Fenster folgenden Inhalt:
 
-![img.png](../img/funktionsaufruf_variablenfenster1.png)
+![funktionsaufruf_variablenfenster1.png](../img/G0/funktionsaufruf_variablenfenster1.png)
 
 Die Variable `y` hat den Wert `6`.
 
@@ -95,7 +95,7 @@ Das Ergebnis wird in der Variable `flaeche` gespeichert.
 
 Nach dem Ausführen des Codes hat das Variablen-Fenster folgenden Inhalt:
 
-![img_1.png](../img/funktionsaufruf_variablenfenster2.png)
+![funktionsaufruf_variablenfenster2.png](../img/G0/funktionsaufruf_variablenfenster2.png)
 
 HINWEIS: Die Variablen `s` und `flaeche` 
 sind nur innerhalb der Funktion `dreiecks_flaeche` definiert und können
@@ -114,11 +114,11 @@ um die Fläche verschiedener Dreiecke zu berechnen.
 
 Wenn du eine Funktion mit dem Debugger Schritt für Schritt durchgehen willst, 
 musst du dem Debugger sagen, dass er in die Funktion springen soll.
-Das machst du mit dem Symbol ![img.png](../img/debugging_step_into.png).
+Das machst du mit dem Symbol ![debugging_step_into.png](../img/G0/debugging_step_into.png).
 
 Danach öffnet sich in der Entwicklunsumgebung Thonny ein neues Fenster:
 
-![img_1.png](../img/debugging_funktionsfenster.png)
+![debugging_funktionsfenster.png](../img/G0/debugging_funktionsfenster.png)
 
 Hier kannst du nun auch die Werte der Variablen `s` und `flaeche` und auch der 
 Parameter `a`, `b` und `c` sehen. Die Variablen werden hier lokale Variablen genannt,

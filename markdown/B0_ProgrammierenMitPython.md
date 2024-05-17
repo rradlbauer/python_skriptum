@@ -8,7 +8,7 @@ werden wir [Thonny](https://thonny.org/) verwenden.
 
 Die Benutzeroberfläche von Thonny sieht folgendermaßen aus:
 
-![img.png](../img/Thonny.png)
+![Thonny.png](../img/B0/Thonny.png)
 
 Sie besteht aus verschiedenen Bereichen.
 
