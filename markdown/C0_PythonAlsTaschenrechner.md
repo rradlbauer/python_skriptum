@@ -7,6 +7,8 @@ Die Python-Konsole (Kommandozeile) kann als Taschenrechner verwendet werden. Hie
 5
 >>> 2 - 3
 -1
+>>> 2**3
+8
 ```
 
 [Hier kannst du alle möglichen Rechen-Operationen sehen](https://www.w3schools.com/python/python_operators.asp).

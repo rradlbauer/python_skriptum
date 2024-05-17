@@ -14,13 +14,13 @@ wie Mathematik, Medizinische Gerätetechnik, Physik, Biomedizinische
 Signalverarbeitung, etc. anwendest.
 Für manche Aufgaben wird es auch notwendig sein, dass du im Internet recherchierst.
 
-**Wenn du dabei Schwierigkeiten hast, dann frage deinen Lehrer oder deine Lehrerin!**
+**Wenn du dabei Schwierigkeiten hast, dann frage deine Lehrer!**
 
 
 ## Hinweis
 
-Im Sinne der guten Lesbarkeit wird im Folenden in diesem Skriptum auf die Verwendung von geschlechtsspezifischen Formulierungen verzichtet. 
+Im Sinne der guten Lesbarkeit wird im Folgenden in diesem Skriptum auf die Verwendung von geschlechtsspezifischen Formulierungen verzichtet. 
 Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter.
 
 
-[<<](../README.md) &emsp; [>>](B0_ProgrammierenMitPython.md)
+[<<](../README.md) &emsp; [>>](A2_ComputerGrundkenntnisse.md)
