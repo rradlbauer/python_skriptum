@@ -32,4 +32,29 @@ Berechne deine Körperoberfläche mit der [Gehan-George-Formel](https://de.wikip
 ### (UE_C0_6)
 Berechne dein Blutvolumen (ca. 7% deines Körpergewichts)
 
+### (UE_C0_7)
+
+![MRI_brain.png](../img/C0/MRI_brain.png)
+
+In diesem Bild siehst du eine Magnetresonanz-Tomographie (MRT) von einem menschlichen Kopf.
+Etwas oberhalb der Mitte des Bildes sind flüssigkeitsgefüllte Hohlräume, 
+die Ventrikel, zu sehen.
+Berechne die Fläche, welche von den Ventrikeln auf diesem Bild eingenommen wird.
+
+Nimm dazu an, dass beide Ventrikel Dreiecke sind. Miss die 3 Seiten der Dreiecke ab
+und suche eine Formel, wie man aus den 3 Seiten eines Dreiecks die Fläche berechnen kann.
+
+Die Breite des aufgenommenen Bereiches (field of view - FOV) beträgt in echt 22 cm. 
+Du musst also auch abmessen, wie breit das FOV auf deinem Bildschirm ist 
+und den Maßstab berechnen.
+
+Beschreibe in deinem Word-Dokument, wie du genau vorgegangen bist 
+um die Fläche zu berechnen. Füge einen Link zu der Seite ein, wo du die Formel gefunden hast.
+Kopiere außerdem deine Eingaben in die Python-Konsole und das Ergebnis in dein Word-Dokument.
+
+
+
+
+
+
 [<<](../markdown/C0_PythonAlsTaschenrechner.md)

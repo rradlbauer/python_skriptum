@@ -1,7 +1,7 @@
 # Inhalt
 
 - [Über dieses Skriptum](markdown/A0_UeberDiesesSkriptum.md)
-- [Vorbereitende Übungen](markdown/A2_ComputerGrundkenntnisse.md)
+- [Computer Grundkenntnisse](markdown/A2_ComputerGrundkenntnisse.md)
 - [Programmieren mit Python](markdown/B0_ProgrammierenMitPython.md)
 - [Python als Taschenrechner](markdown/C0_PythonAlsTaschenrechner.md)
 - [Ergebnisse zwischenspeichern - Variablen](markdown/D0_Variablen.md)

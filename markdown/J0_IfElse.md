@@ -49,7 +49,106 @@ werden nur ausgeführt, wenn die Bedingung wahr ist.
 Die Anweisungen, welche nach der `if`-Anweisung folgen und nicht mehr eingerückt sind,
 werden immer ausgeführt.
 
+## else-Anweisung
 
+Manchmal möchtest du auch Anweisungen ausführen, wenn die Bedingung nicht wahr ist.
+Das kannst du mit der `else`-Anweisung erreichen.
+
+Beispiel:
+
+```python
+eingabe = input("bitte Zahl eingeben:")
+zahl = int(eingabe)
+if zahl < 0:
+    print(zahl, "ist negativ")
+    zahl = -zahl
+else:
+    print(zahl, "ist positiv oder Null")
+print("Betrag der eingegebenen Zahl:", zahl)
+```
+
+Hier wird die Eingabe wieder in eine Ganzzahl umgewandelt.
+Dann wird geprüft, ob die eingegebene Zahl negativ ist.
+Wenn das der Fall ist, wird die Information ausgegeben, dass die Zahl negativ ist.
+Anschließend wird die Zahl positiv gemacht, indem das Vorzeichen umgedreht wird.
+
+Wenn die Zahl nicht negativ ist, wird die Information ausgegeben, 
+dass die Zahl positiv oder Null ist.
+
+Zum Schluss wird der Betrag der eingegebenen Zahl ausgegeben. 
+Diese Anweisung wird in jedem Fall ausgeführt.
+
+Die `else`-Anweisung hat die allgemeine Form:
+
+```python
+if Bedingung:
+    Anweisung1
+    Anweisung2
+    ...
+else:
+    Anweisung3
+    Anweisung4
+    ...
+weitere Anweisungen, welche immer ausgeführt werden
+```
+
+## elif-Anweisung
+
+Manchmal möchtest du mehrere Bedingungen prüfen.
+Das kannst du mit der `elif`-Anweisung erreichen.
+
+Beispiel:
+
+```python
+eingabe = input("bitte Körpertemperatur eingeben:")
+temperatur = float(eingabe)
+if temperatur < 36.0:
+    print("Unterkühlung")
+elif temperatur < 37.5:
+    print("Normaltemperatur")
+elif temperatur < 38.0:
+    print("erhöhte Temperatur")
+else:
+    print("Fieber")
+``` 
+
+Hier wird die Eingabe wieder in eine Gleitkommazahl umgewandelt.
+Dann wird geprüft, ob die eingegebene Temperatur unter 36.0 ist.
+Wenn das der Fall ist, wird die Information ausgegeben, dass eine Unterkühlung vorliegt.
+
+Wenn die Temperatur nicht unter 36.0 ist, wird geprüft, ob sie unter 37.5 ist.
+Wenn das der Fall ist, wird die Information ausgegeben, dass die Temperatur normal ist.
+
+Wenn die Temperatur nicht unter 37.5 ist, wird geprüft, ob sie unter 38.0 ist.
+Wenn das der Fall ist, wird die Information ausgegeben, dass die Temperatur erhöht ist.
+
+Wenn die Temperatur nicht unter 38.0 ist, wird die Information ausgegeben, dass Fieber vorliegt.
+
+
+Die `elif`-Anweisung hat die allgemeine Form:
+
+```python
+if Bedingung1:
+    Anweisung1
+    Anweisung2
+    ...
+elif Bedingung2:
+    Anweisung3
+    Anweisung4
+    ...
+elif Bedingung3:
+    Anweisung5
+    Anweisung6
+    ...
+else:
+    Anweisung7
+    Anweisung8
+    ...
+weitere Anweisungen, welche immer ausgeführt werden
+```
+
+
+## [Übungen](../uebungen/UE_J0_IfElse.md)
 
 
 
