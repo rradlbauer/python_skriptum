@@ -21,7 +21,7 @@ In den Bereichen 3 und 4 kannst du verschiedene Fenster öffnen.
 Welche Fenster dort sichtbar sind, kannst du über das Menu "Ansicht" steuern.
 
 
-
+## [Übungen](../uebungen/UE_B0_ProgrammierenMitPython.md)
 
 
 
