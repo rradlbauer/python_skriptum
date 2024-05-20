@@ -19,24 +19,8 @@ Es läuft dann bis zum nächsten Breakpoint oder bis zum Ende.
 
 Einen Breakpoint setzt du, indem du in der Zeile, bei der du anhalten möchtest, auf die linke Seite klickst.
 
-## Übung
+## [Übung](UE_F0_Debugger.md)
 
-
-- Gehe 3 deiner Scripts aus dem vorigen Abschnitt mit dem Debugger Schritt für Schritt durch.
-Erstelle dabei eine Tabelle, in welcher du nach jeder Zeile des Scripts die Variablenwerte notierst.
-Beispiel:
-
-![debugging_variablen.png](../img/F0/debugging_variablen.png) 
-
-
-| Zeile | a   | b   | c   | s   | flaeche |
-|-------|-----|-----|-----|-----|---------|
-| 2     | 3   |     |     |     |         |
-| 3     | 3   | 4   |     |     |         |
-| 4     | 3   | 4   | 5   |     |         |
-| 5     | 3   | 4   | 5   | 6.0 |         |
-| 6     | 3   | 4   | 5   | 6.0 | 6.0     |
-| 7     | 3   | 4   | 5   | 6.0 | 6.0     |
 
 
 

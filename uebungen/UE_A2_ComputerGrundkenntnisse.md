@@ -4,13 +4,13 @@ Für die folgenden Übungen gibt es hier keine Aleitungen.
 Du sollst selbst herausfinden, wie du die Aufgaben lösen kannst.
 Wenn du nicht weiterkommst, frage deine Lehrer.
 
-### (UE_A2_1) Neuen Ordner erstellen
+### UE_A2_1: Neuen Ordner erstellen
 Finde heraus, wie du einen neuen Ordner erstellen kannst.
 Erstelle in deinem Laufwerk P: einen neuen Ordner mit dem Namen `MGIN`.
 Erstelle in diesem Ordner einen Unterordner mit dem Namen `Uebungen`.
 
 
-### (UE_A2_2) Word-Dokument erstellen
+### UE_A2_2: Word-Dokument erstellen
 Erstelle in dem Ordner `Uebungen` ein neues Word-Dokument mit dem Namen `ComputerGrundkenntnisse.docx`.
 Schreibe in dieses Dokument deinen Namen und das Datum.
 Speichere das Dokument ab.
@@ -20,7 +20,7 @@ sollen in diesem Word-Dokument dokumentiert werden.
 
 Schreibe vor jeder Lösung die Übungsnummer und den Titel der Übung.
 
-### (UE_A2_3) Wichtige Tastenkombinationen
+### UE_A2_3: Wichtige Tastenkombinationen
 Im Betriebssystem Windows gibt es viele Tastenkombinationen, die dir das Arbeiten erleichtern.
 Sehr viele davon sind Kombinationen mit den Tasten `Strg` (`Ctrl`) oder `Alt`.
 In Texten wird die Taste `Strg` oft mit `^` abgekürzt. Zum Beispiel wird `Strg` + `C` als `^C` abgekürzt.
@@ -43,7 +43,7 @@ und schreibe die Lösungen in dein Word-Dokument:
 
 
 
-### (UE_A2_4) Screenshot erstellen
+### UE_A2_4: Screenshot erstellen
 Die nächste Übung besteht darin, einen Screenshot zu erstellen 
 und diesen in dein Word-Dokument einzufügen. 
 
@@ -58,7 +58,7 @@ Das geht mit dem Programm ```Ausschneiden und skizzieren```, welches du über di
 Erstelle also einen Screenshot von diesem Text (Abschnitt UE_A2_2) 
 und füge ihn in dein Word-Dokument ein.
 
-### (UE_A2_5) Dateiendungen im Datei-Explorer anzeigen
+### UE_A2_5: Dateiendungen im Datei-Explorer anzeigen
 
 Im Datei-Explorer von Windows werden Dateiendungen standardmäßig nicht angezeigt.
 Das ist aber wichtig, um Dateien richtig zu benennen und zu erkennen.
@@ -69,14 +69,14 @@ Mache einen Screenshot von einem Ordner, in dem Dateiendungen angezeigt werden,
 und füge diesen in dein Word-Dokument ein.
 
 
-### (UE_A2_6) Dateien und Ordner umbenennen
+### UE_A2_6: Dateien und Ordner umbenennen
 
 Finde heraus, wie du Dateien und Ordner umbenennen kannst.
 Beschreibe in deinem Word-Dokument, wie das funktioniert.
 Benenne den Ordner `Uebungen` in `Aufgaben` um.
 (Beschreibe auch, ob dabei Probleme aufgetreten sind.)
 
-### (UE_A2_7) Browser-Einstellungen
+### UE_A2_7: Browser-Einstellungen
 
 Finde heraus, wo du die Einstellungen für deinen Browser ändern kannst.
 Mache einen Screenshot von den Einstellungen und füge ihn in dein Word-Dokument ein.

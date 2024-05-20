@@ -72,22 +72,8 @@ flaeche = (s * (s - 3) * (s - 4) * (s - 5)) ** 0.5
 print("Fläche: ", flaeche)
 ```
 
-## Übungen
+## [Übungen](../uebungen/UE_E0_Script.md)
 
-Füge in allen Scripts, welche du für diese Aufgaben schreibst, Kommentare ein, 
-welche die wesentlichen Schritte erklären.
-Es ist auch oft üblich, den Autor und das Datum des Scripts zu Beginn zu vermerken.
-
-- Berechne nun mit Hilfe eines Python scripts die Flächen von mehreren Dreiecken:
-  - Seitenlängen: a = 3.1, b = 4.3, c = 3.7
-  - Seitenlängen: a = 2.1, b = 3.5, c = 4.9
-  - Seitenlängen: a = 3.6, b = 7.7, c = 6.8
-  
-- Schreibe ein Script, welches deine Körperoberfäche mit der 
-[Gehan-George-Formel](https://de.wikipedia.org/wiki/K%C3%B6rperoberfl%C3%A4che) berechent: 
-Definiere zuerst Variablen mit deinem Gewicht und deiner Größe und berechne dann die Körperoberfläche.
-Ändere das Script dann, damit du auch die Körperoberfläche von 2 deiner Freunde berechnen kannst.
-- Schreibe ein Script, welches jeweils den Namen und das Geburtsdatum von dir und 2 deiner Freunde mit print() ausgibt.
 
 
 [<<](D0_Variablen.md) &emsp; [>>](F0_Debugger.md)

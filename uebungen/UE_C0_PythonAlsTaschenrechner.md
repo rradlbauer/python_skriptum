@@ -10,29 +10,29 @@ Konvertiere das Word-Dokument in ein PDF-Dokument, welches du dann abgibst.
 
 
 
-### (UE_C0_1)
+### UE_C0_1: Rechecktsfläche
 Berechne die Fläche eines Rechtecks mit den Seitenlängen 3.5 und 4.7
 
-### (UE_C0_2)
+### UE_C0_2: Diagonale eines Rechtecks
 Berechne die Diagonale eines Rechtecks mit den Seitenlängen 3.5 und 4.7 (Hinweis: $\sqrt{x} = x^{0.5}$)
 
-### (UE_C0_3)
+### UE_C0_3: Body Mass Index
 Berechne deinen Body Mass Index (BMI) mit deinem Gewicht und deiner Größe 
 (siehe [Wikipedia: Body-Mass-Index](https://de.wikipedia.org/wiki/Body-Mass-Index)): 
 $BMI = \frac{Gewicht}{Größe^2}$ (Gewicht in kg, Größe in m)
 
-### (UE_C0_4) 
+### UE_C0_4: Grad Fahrenheit 
 Schätze die heutige Außentemperatur und rechne sie auf Fahrenheit um 
 (siehe [Wikipedia: Grad Fahrenheit](https://de.wikipedia.org/wiki/Grad_Fahrenheit)):
 $F = C \cdot \frac{9}{5} + 32$
 
-### (UE_C0_5) 
+### UE_C0_5: Körperoberfläche
 Berechne deine Körperoberfläche mit der [Gehan-George-Formel](https://de.wikipedia.org/wiki/K%C3%B6rperoberfl%C3%A4che)
 
-### (UE_C0_6)
+### UE_C0_6: Blutvolumen
 Berechne dein Blutvolumen (ca. 7% deines Körpergewichts)
 
-### (UE_C0_7)
+### UE_C0_7: Ventrikel im Gehirn
 
 ![MRI_brain.png](../img/C0/MRI_brain.png)
 
