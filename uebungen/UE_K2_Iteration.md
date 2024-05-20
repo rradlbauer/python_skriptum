@@ -8,7 +8,7 @@ und dann die Summe dieser Zahlen berechnet wird.
 
 ### UE_K2_2: Labyrinth
 
-![img.png](img.png)
+![TurtleGrafikLabyrinth.png](../img/K2/TurtleGrafikLabyrinth.png)
 
 Dieses Bild wurde mit [turtle](../markdown/H1_turtle.md) erstellt.
 In einer Schleife wurde immer wieder `forward(...)` 
