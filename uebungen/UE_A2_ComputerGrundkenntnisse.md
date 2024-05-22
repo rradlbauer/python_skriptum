@@ -83,7 +83,21 @@ Mache einen Screenshot von den Einstellungen und füge ihn in dein Word-Dokument
 Suche die Einstellung für das Herunterladen von Dateien, und stellen deinen Browser so ein,
 dass er dich jedes Mal fragt, wohin er eine Datei speichern soll.
 
+### UE_A2_8: E-Mail versenden / empfangen
 
+versende von deinem Schul-Email-Account ein E-Mail an einen Freund 
+und bitte ihn um eine Antwort. Erstelle von der Antwort im E-Mail-Programm
+einen Screenshot und füge diesen in dein Word-Dokument ein
+
+### UE_A2_9: Task-Manager verwenden
+
+Finde heraus, wie du den Task-Manager von Windows starten kannst.
+Suche dann den Prozess "Windows Explorer" und beende ihn.
+Starte dann den Prozess wieder neu. 
+Beschreibe in deinem Word-Dokument, wie du den Task-Manager starten kannst,
+wie du einen Prozess beendest und wie du ihn wieder neu startest.
+Beschreibe auch wie sich das auswirkt, 
+wenn man den Prozess "Windows Explorer" beendet.
 
 
 
