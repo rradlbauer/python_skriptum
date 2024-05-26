@@ -10,7 +10,7 @@ Erstelle ein Word-Dokument, und füge eine Tabelle mit 4 Spalten ein.
 In der ersten Spalte schreibst du die Variablennamen, in der zweiten Spalte
 die Werte, in der dritten Spalte die Datentypen.
 Wenn das Ergebnis für dich überraschend war, schreibst du in der vierten Spalte
-eine kurze Erklärung, warum das so ist.
+eine kurze Erklärung, warum es so ist.
 
 
 

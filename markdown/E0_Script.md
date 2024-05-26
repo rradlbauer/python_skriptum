@@ -1,11 +1,15 @@
 # Python script
 
 Bei komplizierteren Berechnungen kann es sinnvoll sein, 
-den Code in einem Skript zu speichern und von dort aus auszuführen. 
+die Python-Anweisungen in einem Skript zu speichern und 
+von dort aus auszuführen. 
 Ein Skript ist eine Textdatei, die Python-Code enthält. 
 Der Code wird von Python interpretiert und ausgeführt. 
-Ein Skript kann in einem Texteditor geschrieben und als Textdatei gespeichert werden. 
+Ein Skript kann in einem Texteditor geschrieben 
+und als Textdatei gespeichert werden. 
 Der Dateiname sollte die Endung `.py` haben.
+
+Ein Skript ist also ein Computerprogramm.
 
 Im linken oberen Bereich der Entwicklungsumgebung Thonny kann man ein neues Skript erstellen.
 
