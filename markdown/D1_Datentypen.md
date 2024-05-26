@@ -20,7 +20,7 @@ Fließkommazahlen werden als `float` bezeichnet.
 <class 'float'>
 ```
 
-Du kannst den Datentyp einer Variable mit der Funktion `type()` herausfinden.
+Du kannst den Datentyp einer Variable `x` mit dem Befehl `type(x)` herausfinden.
 (Das `class` ist ein Synonym für `type`.)
 
 ## Zeichenketten
@@ -97,6 +97,7 @@ Wahrheitswerte können miteinander verknüpft werden.
 >>> c = a and b
 ```
 
+
 Was steht nun in der Variable `c`?
 
 Hier noch ein paar Beispiele. Überlege dir zuerst, welche Werte in den 
@@ -125,7 +126,7 @@ Einige davon werden wir später kennenlernen.
 
 [Hier kannst du eine Übersicht über die Datentypen in Python finden.](https://www.w3schools.com/python/python_datatypes.asp)
 
+## [Übungen](../uebungen/UE_D1_Datentypen.md)
 
 
-
-[<<](D1_Variablen.md) &emsp; [>>](E0_Script.md)
+[<<](D0_Variablen.md) &emsp; [>>](E0_Script.md)

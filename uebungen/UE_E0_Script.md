@@ -2,7 +2,7 @@
 
 Füge in allen Scripts, welche du für diese Aufgaben schreibst, Kommentare ein, 
 welche die wesentlichen Schritte erklären.
-Es ist auch oft üblich, den Autor und das Datum des Scripts zu Beginn zu vermerken.
+Außerdem vermerkst du ganz oben den Autor und das Datum des Scripts.
 
 ### UE_E0_1: Fläche des allgemeinen Dreiecks
 

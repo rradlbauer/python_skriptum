@@ -53,7 +53,8 @@ Wie du in diesem Beispiel siehst, kannst du den Wert einer Variable auch anzeige
 ## Kompliziertere Berechnungen mit Hilfe von Variablen
 
 Variablen sind besonders nützlich, wenn du kompliziertere Berechnungen durchführen möchtest.
-Hier ein Beispiel, bei dem wir die Fläche eines Dreiecks mit den Seitenlängen ``a = 3``, ``b = 4`` und ``c = 5`` mit der 
+Hier ein Beispiel, bei dem wir die Fläche eines Dreiecks mit den Seitenlängen 
+`a = 4.53`, `b = 5.21` und `c = 6.17` mit der 
 [Formel von Heron](https://www.arndt-bruenner.de/mathe/9/herondreieck.htm) berechnen:
 
 $A = \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s - c)}$
@@ -61,11 +62,17 @@ $A = \sqrt{s \cdot (s - a) \cdot (s - b) \cdot (s - c)}$
 $s = \frac{a + b + c}{2}$
 
 ```python
->>> s = (3 + 4 + 5) / 2
+>>> a = 4.53
+>>> b = 5.21
+>>> c = 6.17
+>>> s = (a + b + c) / 2
 >>> flaeche = (s * (s - 3) * (s - 4) * (s - 5)) ** 0.5
 >>> flaeche
-6.0
+21.463172100149247
 ```
+
+Man kann hier sehen, dass es einfacher ist, die Variablen `a`, `b` und `c` zu verwenden, 
+als die Zahlen direkt in die Formel einzusetzen.
 
 ## Inhalte von Variablen
 

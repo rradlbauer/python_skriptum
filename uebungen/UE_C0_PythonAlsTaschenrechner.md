@@ -1,14 +1,19 @@
 # Python als Taschenrechner - Übungen
 
-Berechne die folgenden Werte in der Python-Konsole. 
+Bei den folgenden Übungen sollst 
+verschiedene Berechnungen in der Python-Konsole durchführen.
+Kopiere die Berechnungen und Ergebnisse aus der Python Konsole 
+in ein Word-Dokument. Erkläre kurz, wie du die Berechnungen durchgeführt hast 
+und gib Links zu den verwendeten Quellen an.
+Konvertiere zum Schluss das Word-Dokument in ein PDF-Dokument, 
+welches du dann auf Moodle abgibst.
 
-Kopiere die Berechnungen und Ergebnisse aus der Python Konsole in ein Word-Dokument.
-
-Erkläre kurz, wie du die Berechnungen durchgeführt hast und gib Links zu den verwendeten Quellen an.
-
-Konvertiere das Word-Dokument in ein PDF-Dokument, welches du dann abgibst.
-
-
+*Der Hauptzweck dieser Übungen ist es, dass du die Python-Konsole
+und erste Python-Befehle kennenlernst. Du sollst aber auch eine
+Idee davon haben, wofür diese Berechnungen gut sein könnten.
+Hier werden unter anderem einige Flächen-Berechnungen von dir verlangt.
+In der Medizin - speziell bei der Bildgebung - ist es oft wichtig,
+Flächen und Volumina berechnen zu können.*
 
 ### UE_C0_1: Rechecktsfläche
 Berechne die Fläche eines Rechtecks mit den Seitenlängen 3.5 und 4.7
