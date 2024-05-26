@@ -1,6 +1,6 @@
 # Computer Grundkenntnisse
 
-Im Unterricht vom Fach Medizin- und Gesundheitsinformatik (MGIN)
+Im Unterricht vom `Fach Medizin- und Gesundheitsinformatik (MGIN)`
 werden wir uns vorwiegend mit Programmieren beschäftigen.
 Bevor wir damit beginnen, ist es aber wichtig, einige Grundkenntnisse im Umgang mit Computern zu üben.
 Möglicherweise sind diese Dinge für dich selbstverständlich, aber es ist gut, wenn du sie noch einmal wiederholst.

@@ -14,11 +14,17 @@ Sie besteht aus verschiedenen Bereichen.
 
 Im Bereich 1 kannst du Scripts (= Programme) erstellen und in einer Datei speichern.
 
-Der Bereich 2 wird Kommandozeile genannt. Hier kannst du einzelne Python-Befehle
+Der Bereich 2 wird Kommandozeile oder auch Python Konsole genannt. 
+Hier kannst du einzelne Python-Befehle
 eingeben. Diese werden sofort ausgeführt.
 
 In den Bereichen 3 und 4 kannst du verschiedene Fenster öffnen. 
-Welche Fenster dort sichtbar sind, kannst du über das Menu "Ansicht" steuern.
+Welche Fenster dort sichtbar sind, kannst du über 
+das Menu "Ansicht" steuern.
+
+Python-Befehle kann man aber auch in der Konsole von Windows eingeben:
+
+![PythonInCmd.png](../img/B0/PythonInCmd.png)
 
 
 ## [Übungen](../uebungen/UE_B0_ProgrammierenMitPython.md)
