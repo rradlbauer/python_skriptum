@@ -75,9 +75,9 @@ Kopiere außerdem deine Eingaben von der Python-Konsole und das Ergebnis in dein
 
 ### UE_C0_8: Fibonacci-Folge
 
-Die Fibonacci-Folge ist eine unendliche Folge von Zahlen,
+Eine Fibonacci-Folge ist eine unendliche Folge von Zahlen,
 bei der jede Zahl die Summe der beiden vorhergehenden Zahlen ist.
-Die ersten beiden Zahlen der Folge sind 0 und 1.
+Die ersten beiden Zahlen der einfachsten Folge sind 0 und 1.
 
 $a_0 = 0$<br/>
 $a_1 = 1$<br/>
@@ -86,7 +86,17 @@ $a_3 = a_1 + a_2 = 2$<br/>
 $a_4 = a_2 + a_3 = 3$<br/>
 ...
 
-Berechne in der Python-Konsole die ersten 10 Zahlen der Fibonacci-Folge.
+Du kannst aber auch mit anderen Zahlen beginnen, z.B. 
+
+$a_0 = 3$<br/>
+$a_1 = 5$<br/>
+$a_2 = a_0 + a_1 = 8$<br/>
+$a_3 = a_1 + a_2 = 13$<br/>
+...
+
+
+Berechne in der Python-Konsole die ersten 10 
+Zahlen einer Fibonacci-Folge mit Anfangswerten deiner Wahl.
 
 *(Die Fibonacci-Folge ist in der Natur sehr häufig anzutreffen.
 Beispielsweise sind die Blütenstände von Sonnenblumen und Ananas
