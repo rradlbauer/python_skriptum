@@ -37,11 +37,23 @@ Python-Konsole bereits eingegebene Befehle zurückholen.*
 Speichere in den Variablen `a` und `b` zwei Zahlen mit jeweils 5 Nachkommastellen.
 Führe einen Variablentausch durch, 
 sodass in `a` der Wert von `b` und in `b` der Wert von `a` steht.
-Das sollst du machen, ohne die Zahlen noch einmal einzugeben.
+Das sollst du machen, ohne die Zahlen noch einmal einzutippen.
 
 *Tipp: du kannst eine dritte Variable verwenden.*
 
+### UE_D0_6: Fibonacci-Zahlen
 
+Berechne wieder die ersten 10 Zahlen einer Fibonacci-Folge mit 
+Anfangszahlen deiner Wahl und speichere sie diesmal jeweils in einer Variable.
+Beispiel:
+
+```python
+>>> a1 = 2
+>>> a2 = 3
+>>> a3 = a1 + a2
+>>> a4 = a2 + a3
+...
+```
 
 
 [<<](../markdown/D0_Variablen.md)
