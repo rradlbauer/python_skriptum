@@ -73,7 +73,25 @@ Beschreibe in deinem Word-Dokument, wie du genau vorgegangen bist
 um die Fläche zu berechnen. Füge einen Link zu der Seite ein, wo du die Formel gefunden hast.
 Kopiere außerdem deine Eingaben von der Python-Konsole und das Ergebnis in dein Word-Dokument.
 
+### UE_C0_8: Fibonacci-Folge
 
+Die Fibonacci-Folge ist eine unendliche Folge von Zahlen,
+bei der jede Zahl die Summe der beiden vorhergehenden Zahlen ist.
+Die ersten beiden Zahlen der Folge sind 0 und 1.
+
+$a_0 = 0$<br/>
+$a_1 = 1$<br/>
+$a_2 = a_0 + a_1 = 1$<br/>
+$a_3 = a_1 + a_2 = 2$<br/>
+$a_4 = a_2 + a_3 = 3$<br/>
+...
+
+Berechne in der Python-Konsole die ersten 10 Zahlen der Fibonacci-Folge.
+
+*(Die Fibonacci-Folge ist in der Natur sehr häufig anzutreffen.
+Beispielsweise sind die Blütenstände von Sonnenblumen und Ananas
+oft so angeordnet, dass sie einer Fibonacci-Folge folgen;
+siehe http://www.mat.uc.pt/~mat1164/FibonacciAN.html)*
 
 
 
