@@ -19,7 +19,7 @@ Es läuft dann bis zum nächsten Breakpoint oder bis zum Ende.
 
 Einen Breakpoint setzt du, indem du in der Zeile, bei der du anhalten möchtest, auf die linke Seite klickst.
 
-## [Übung](UE_F0_Debugger.md)
+## [Übung](../uebungen/UE_F0_Debugger.md)
 
 
 

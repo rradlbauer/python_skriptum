@@ -1,7 +1,9 @@
 # Zeichnen mit der Schildkröte (Modul turtle)
 
-Es gibt ein Modul in Python, das dir erlaubt, in einem eingenen Fenster zu zeichnen.
-Das Modul heißt `turtle`. Importiere es mit folgender Anweisung:
+Es gibt ein Modul in Python, das dir erlaubt, in einem eigenen Fenster zu zeichnen.
+Das Modul heißt `turtle` (Schildkröte). Die Schildkröte wird allerdings 
+durch ein einfaches Dreieck dargestellt.
+Importiere das Modul `turtle` mit folgender Anweisung:
 
 ```python
 >>> import * from turtle
@@ -158,5 +160,7 @@ Hier ist eines davon:
 *(in diesem Tutorial wird das Modul anders importiert,
 so dass vor jedem Funktionsaufruf der Modulname `turtle` 
 geschrieben werden muss.)*
+
+## [Übungen](../uebungen/UE_H1_turtle.md)
 
 [<<](H0_Module.md) &emsp; [>>](I0_EinAusgabe.md)
