@@ -34,7 +34,7 @@ Musterlösungen auf Moodle veröffentlicht, daher hat eine Abgabe danach keinen 
 
 ## Beurteilung
 
-Deine Zeugnisnote setzt jeweils zu 50% aus Übungen und Prüfungen zusammen.
+Deine Zeugnisnote setzt sich jeweils zu 50% aus Übungen und Prüfungen zusammen.
 
 ### Prüfungen
 
@@ -65,7 +65,7 @@ zählen insgesamt entsprechend weniger zur Note.
 
 
 
-Am Ende von jedem Abschnitt musst du also die Übungen abgeben. 
+Bis zum Ende von jedem Abschnitt musst du also die Übungen abgeben. 
 Zusätzlich gibt es bei jedem Abschnitt eine Checkliste, auf der du ankreuzt,
 welche Übungen du gemacht und abgegeben hast. Es wird dann stichprobenartig
 kontrolliert, ob du die Übungen auch wirklich gemacht hast.
@@ -114,11 +114,12 @@ Wenn du z.B. ein Programm schreibst, das überprüft, ob eine Zahl eine Primzahl
 dann lässt du es für verschiedene Zahlen laufen und überprüfst, 
 ob es das richtige Ergebnis liefert.
 
-**Bei jeder Übung musst du daher zusätzlich zu deinem Programm 
-eine Dokumentation der Qualitätssicherung abgeben.** 
+**Die Abgabe jeder Übung muss auch 
+eine Dokumentation der Qualitätssicherung enthalten.** 
+
 Das bedeutet, dass du entweder ein Review oder einen Test durchführst
 und das Ergebnis dokumentierst.
-Für ein Review enthält die Dokumentation die Information, 
+Für ein Review enthält diese Dokumentation die Information, 
 wer dein Reviewer war und was er gefunden hat.
 Für einen Test enthält die Dokumentation die Testfälle und das Ergebnis.
 

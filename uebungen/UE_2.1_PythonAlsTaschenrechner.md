@@ -1,10 +1,16 @@
 # Python als Taschenrechner - Übungen
 
-Bei den folgenden Übungen sollst 
+Bei den folgenden Übungen sollst du
 verschiedene Berechnungen in der Python-Konsole durchführen.
 Kopiere die Berechnungen und Ergebnisse aus der Python Konsole 
 in ein Word-Dokument. Erkläre kurz, wie du die Berechnungen durchgeführt hast 
 und gib Links zu den verwendeten Quellen an.
+
+Bei diesen Übungen sollst du als Qualitätssicherung ein Review durchführen.
+Bitte einen Mitschüler oder eine Mitschülerin, deine Berechnungen zu überprüfen.
+Füge bei der jeweiligen Aufgabe die Information ein, 
+mit wem du das Review durchgeführt hast, und ob dabei Fehler gefunden wurden.
+
 Konvertiere zum Schluss das Word-Dokument in ein PDF-Dokument, 
 welches du dann auf Moodle abgibst.
 
@@ -15,13 +21,13 @@ Hier werden unter anderem einige Flächen-Berechnungen von dir verlangt.
 In der Medizin - speziell bei der Bildgebung - ist es oft wichtig,
 Flächen und Volumina berechnen zu können.*
 
-### UE_C0_1: Rechecktsfläche
+### UE_2.1_1: Rechecktsfläche
 Berechne die Fläche eines Rechtecks mit den Seitenlängen 3.5 und 4.7
 
-### UE_C0_2: Diagonale eines Rechtecks
+### UE_2.1_2: Diagonale eines Rechtecks
 Berechne die Diagonale eines Rechtecks mit den Seitenlängen 3.5 und 4.7 (Hinweis: $\sqrt{x} = x^{0.5}$)
 
-### UE_C0_3: Body Mass Index (BMI)
+### UE_2.1_3: Body Mass Index (BMI)
 Berechne deinen Body Mass Index (BMI) mit deinem Gewicht und deiner Größe 
 (siehe [Wikipedia: Body-Mass-Index](https://de.wikipedia.org/wiki/Body-Mass-Index)): 
 $BMI = \frac{Gewicht}{Größe^2}$ (Gewicht in kg, Größe in m)
@@ -33,14 +39,14 @@ aussagekräftig ist. Beispielsweise wären sehr viele Spitzensportler
 übergewichtig, wenn man nur nach dem BMI gehen würde.
 In Wirklichkeit haben bei ihnen aber die Muskeln sehr viel Masse.)*
 
-### UE_C0_4: Grad Fahrenheit 
+### UE_2.1_4: Grad Fahrenheit 
 Schätze die heutige Außentemperatur und rechne sie auf Fahrenheit um 
 (siehe [Wikipedia: Grad Fahrenheit](https://de.wikipedia.org/wiki/Grad_Fahrenheit)):
 $F = C \cdot \frac{9}{5} + 32$
 
 *(Die Fahrenheit-Skala wird in den USA und in einigen anderen Ländern verwendet.)*
 
-### UE_C0_5: Körperoberfläche
+### UE_2.1_5: Körperoberfläche
 Berechne deine Körperoberfläche mit der 
 [Gehan-George-Formel](https://de.wikipedia.org/wiki/K%C3%B6rperoberfl%C3%A4che)
 
@@ -48,10 +54,10 @@ Berechne deine Körperoberfläche mit der
 um z.B. die Dosierung von Medikamenten zu berechnen
 oder um den Schweregrad von Verbrennungen zu bestimmen.)*
 
-### UE_C0_6: Blutvolumen
+### UE_2.1_6: Blutvolumen
 Berechne dein Blutvolumen (ca. 7% deines Körpergewichts)
 
-### UE_C0_7: Ventrikel im Gehirn
+### UE_2.1_7: Ventrikel im Gehirn
 
 ![MRI_brain.png](../img/2.1/MRI_brain.png)
 
@@ -73,7 +79,7 @@ Beschreibe in deinem Word-Dokument, wie du genau vorgegangen bist
 um die Fläche zu berechnen. Füge einen Link zu der Seite ein, wo du die Formel gefunden hast.
 Kopiere außerdem deine Eingaben von der Python-Konsole und das Ergebnis in dein Word-Dokument.
 
-### UE_C0_8: Fibonacci-Folgen
+### UE_2.1_8: Fibonacci-Folgen
 
 Eine Fibonacci-Folge ist eine unendliche Folge von Zahlen,
 bei der jede Zahl die Summe der beiden vorhergehenden Zahlen ist.

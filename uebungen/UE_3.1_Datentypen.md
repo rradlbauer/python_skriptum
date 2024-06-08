@@ -1,6 +1,6 @@
 # Datentypen - Übungen
 
-### UE_D1_1: Datentypen ausprobieren
+### UE_3.1_1: Datentypen ausprobieren
 
 Überlege zuerst, welche Werte in den Variablen  `a` bis `z` 
 stehen und welchen Datenty sie jeweils haben und probiere dann aus, 

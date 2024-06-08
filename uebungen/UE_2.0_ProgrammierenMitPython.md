@@ -3,8 +3,11 @@
 Bei den folgenden Übungen sollst du Screenshots erstellen und in einem Word-Dokument speichern.
 Das Word-Dokument sollst du in ein PDF-Dokument umwandeln und abgeben.
 
+Für die Übungen von diesem Abschnitt musst du keine Qualitätssicherung
+durchführen und daher auch nicht dokumentieren.
 
-### UE_B0_1: Python-Konsole in der Eingabeaufforderung
+
+### UE_2.0_1: Python-Konsole in der Eingabeaufforderung
 
 Starte die Windows-Eingabeaufforderung und gib `py` ein.
 Damit startest du die Python-Konsole.
@@ -22,14 +25,14 @@ ist die Eingabeaufforderung von Python.)
 ```
 
 
-### UE_B0_2: Installation Thonny
+### UE_2.0_2: Installation Thonny
 
 Das ist eine Hausübung:
 Installiere auf einem Rechner bei dir zu Hause die Entwicklungsumgebung Thonny.
 Starte Thonny, erstelle einen Screenshot von der Benutzeroberfläche 
 und füge ihn in dein Word-Dokument ein.
 
-### UE_B0_3: Thonny kennenlernen
+### UE_2.0_3: Thonny kennenlernen
 
 Schau, ob in der Entwicklungsumgebung Thonny die Bereiche 
 Kommandozeile und Variablen sichtbar sind. Falls nicht,
