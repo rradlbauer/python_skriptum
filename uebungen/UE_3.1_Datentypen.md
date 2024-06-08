@@ -12,6 +12,12 @@ die Werte, in der dritten Spalte die Datentypen.
 Wenn das Ergebnis für dich überraschend war, schreibst du in der vierten Spalte
 eine kurze Erklärung, warum es so ist.
 
+Bei diesen Übungen sollst du als Qualitätssicherung wieder
+jeweils ein Review durchführen.
+Bei jeder abgegebenen Übung muss die Information enthalten sein,
+mit wem du das Review durchgeführt hast, und ob Fehler gefunden wurden.
+
+
 
 
 ```python

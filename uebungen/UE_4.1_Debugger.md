@@ -1,6 +1,6 @@
 # Debugger - Übungen
 
-### UE_F0_1: Variablenwerte im Debugger
+### UE_4.0_1: Variablenwerte im Debugger
 
 Gehe 3 deiner Scripts aus dem vorigen Abschnitt mit dem Debugger Schritt für Schritt durch.
 Erstelle dabei eine Tabelle, in welcher du nach jeder Zeile des Scripts die Variablenwerte notierst.
