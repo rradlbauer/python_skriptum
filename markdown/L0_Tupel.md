@@ -1,1 +1,0 @@
-# Zusammengesetzte Objekte - Tupel
