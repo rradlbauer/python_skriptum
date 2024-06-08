@@ -7,6 +7,12 @@ Außerdem vermerkst du ganz oben den Autor und das Datum des Scripts.
 Auf Moodle gibst du diesmal keine PDF-Datei ab, 
 sondern nur die Python-Scripts.
 
+Für diese Übungen ist eine Qualitätssicherung notwendig.
+Entweder führst du ein Review durch oder du rechnest die 
+Berechnungen mit einem Taschenrechner nach.
+Dokumentiere das Ergebnis deiner Qualitätssicherung 
+in einem Kommentar am Ende des jeweiligen Scripts.
+
 ### UE_4.0_1: Fläche des allgemeinen Dreiecks
 
 Berechne mithilfe eines Python Scripts die Flächen von mehreren Dreiecken:
