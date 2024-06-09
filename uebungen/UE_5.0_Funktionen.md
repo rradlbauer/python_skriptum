@@ -1,4 +1,4 @@
-# 5.0 Funktionen
+# 5.0 Funktionen - Übungen
 
 ### UE_5.0_1: Idealgewicht
 
