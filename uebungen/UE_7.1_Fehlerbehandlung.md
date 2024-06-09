@@ -20,7 +20,7 @@ Beispiel:
 ### UE_7.1_1: Fehlerbehandlung
 
 Überarbeite alle Übungen aus dem Abschnitt
-[7.0 Ein- und Ausgabe](../skriptum/7.0_EinAusgabe.md):
+[UE_7.0 Ein-/Ausgabe](../uebungen/UE_7.0_EinAusgabe.md):
 Füge überall, wo ein Benuzter Fehler machen kann, eine Fehlerbehandlung ein.
 
 [<<](../skriptum/7.1_Fehlerbehandlung.md)
