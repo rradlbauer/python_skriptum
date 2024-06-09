@@ -1,4 +1,11 @@
-# 5.0 Funktionen - Übungen
+# UE_5.0 Funktionen - Übungen
+
+Bei diesen Übungen geht es darum, Funktionen zu schreiben.
+Diese Funktionen müssen natürlich auch getestet werden.
+
+Zur Qualitätssicherung muss bei jeder Funktion ein Kommentar
+sein, der beschreibt, wie die Funktion getestet wurde.
+
 
 ### UE_5.0_1: Idealgewicht
 

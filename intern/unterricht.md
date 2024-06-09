@@ -114,13 +114,29 @@ Wenn du z.B. ein Programm schreibst, das überprüft, ob eine Zahl eine Primzahl
 dann lässt du es für verschiedene Zahlen laufen und überprüfst, 
 ob es das richtige Ergebnis liefert.
 
-**Die Abgabe jeder Übung muss auch 
+**Die Abgabe jeder Übung (mit wenigen Ausnahmen) muss auch 
 eine Dokumentation der Qualitätssicherung enthalten.** 
 
 Das bedeutet, dass du entweder ein Review oder einen Test durchführst
 und das Ergebnis dokumentierst.
 Für ein Review enthält diese Dokumentation die Information, 
+wann das Review stattgefunden hat,
 wer dein Reviewer war und was er gefunden hat.
 Für einen Test enthält die Dokumentation die Testfälle und das Ergebnis.
+
+## Allgemeines zu den Übungen
+
+Wir bemühen uns, für die Übungen Themen zu wählen, die für dich interessant sind,
+und die auch einen medizinischen oder biologischen Hintergrund haben. 
+In erster Linie geht es aber darum, dass du lernst, zu programmieren
+und für dich neue Aufgabenstellungen zu lösen.
+Daher wird es auch Übungen geben, 
+die nichts mit Medizin oder Biologie zu tun haben.
+
+Bei einigen Übungen wird es notwendig sein, dass du Wissen aus anderen Fächern
+einsetzt oder dir Informationen aus anderen Quellen holst.
+Bitte bemühe dich, das selbständig zu tun.
+Wenn du aber nicht weiter kommst, dann hab bitte keine Scheu,
+deine Lehrer zu fragen.
 
 

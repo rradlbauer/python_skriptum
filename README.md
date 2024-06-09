@@ -12,12 +12,11 @@
 - [5.1 Module](skriptum/5.1_Module.md)
 - [6.0 Zeichnen mit der Schildkröte](skriptum/6.0_turtle.md)
 - [7.0 Eingabe und Ausgabe](skriptum/7.0_EinAusgabe.md)
+- [7.1 Fehlerbehandlung](skriptum/7.1_Fehlerbehandlung.md)
 - [8.0 Fälle unterscheiden - bedingte Anweisungen](skriptum/8.0_IfElse.md)
 - [9.0 Listen](skriptum/9.0_Listen.md)
 - [9.1 Iteration - Anweisungen für alle Elemente einer Liste wiederholen](skriptum/9.1_Iteration.md)
-- [10.0 Zusammengesetzte Objekte - Tupel](skriptum/10.0_Tupel.md)
-- [11.0 Objekte haben Methoden](skriptum/11.0_Methoden.md)
-- [11.1 Hilfe - Doc-String](skriptum/11.1_DocString.md)
+- [10.0 Algorithmen](skriptum/10.0_Algorithmen.md)
 
 
 

@@ -1,10 +1,11 @@
-# Computer Grundkenntnisse - Übungen
+# UE_1.0 Computer Grundkenntnisse - Übungen
 
 Für die folgenden Übungen gibt es hier keine Anleitungen. 
 Du sollst selbst herausfinden, wie du die Aufgaben lösen kannst.
 Wenn du nicht weiterkommst, frage deine Lehrer.
 
-Für die Übungen zu diesem Abschnitt musst du keine Qualitätssicherung durchführen
+Für die Übungen zu diesem Abschnitt musst du 
+ausnahmsweise keine Qualitätssicherung durchführen
 und daher auch nicht dokumentieren.
 
 ### UE_1.0_1: Neuen Ordner erstellen

@@ -1,4 +1,4 @@
-# Python als Taschenrechner - Übungen
+# UE_2.1 Python als Taschenrechner - Übungen
 
 Bei den folgenden Übungen sollst du
 verschiedene Berechnungen in der Python-Konsole durchführen.
@@ -9,7 +9,7 @@ und gib Links zu den verwendeten Quellen an.
 Bei diesen Übungen sollst du als Qualitätssicherung ein Review durchführen.
 Bitte einen Mitschüler oder eine Mitschülerin, deine Berechnungen zu überprüfen.
 Füge bei der jeweiligen Aufgabe die Information ein, 
-mit wem du das Review durchgeführt hast, und ob dabei Fehler gefunden wurden.
+mit wem du das Review wann durchgeführt hast, und ob dabei Fehler gefunden wurden.
 
 Konvertiere zum Schluss das Word-Dokument in ein PDF-Dokument, 
 welches du dann auf Moodle abgibst.

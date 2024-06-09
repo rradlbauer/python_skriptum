@@ -1,4 +1,4 @@
-# Datentypen - Übungen
+# UE_3.1 Datentypen - Übungen
 
 ### UE_3.1_1: Datentypen ausprobieren
 
@@ -15,7 +15,7 @@ eine kurze Erklärung, warum es so ist.
 Bei diesen Übungen sollst du als Qualitätssicherung wieder
 jeweils ein Review durchführen.
 Bei jeder abgegebenen Übung muss die Information enthalten sein,
-mit wem du das Review durchgeführt hast, und ob Fehler gefunden wurden.
+mit wem und wann du das Review durchgeführt hast, und ob Fehler gefunden wurden.
 
 
 

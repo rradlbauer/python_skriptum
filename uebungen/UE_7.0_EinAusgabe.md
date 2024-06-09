@@ -1,4 +1,11 @@
-# Ein-/Ausgabe - Übungen
+# UE_7.0 Ein-/Ausgabe - Übungen
+
+Zur Qualitätssicherung dieser Übungen gehört,
+dass du die Scripte mehrmals laufen lässt und dabei 
+verschiedene Eingaben machst.
+Alternativ kannst du auch ein Review durchführen.
+Die Qualitätssicherungsmaßnahme muss auf jeden Fall
+im Script als Kommentar vermerkt werden.
 
 ### UE_I0_1: Dreiecksfläche
 

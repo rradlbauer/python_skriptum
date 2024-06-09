@@ -1,4 +1,4 @@
-# Programmieren mit Python - Übungen
+# UE_2.0 Programmieren mit Python - Übungen
 
 Bei den folgenden Übungen sollst du Screenshots erstellen und in einem Word-Dokument speichern.
 Das Word-Dokument sollst du in ein PDF-Dokument umwandeln und abgeben.

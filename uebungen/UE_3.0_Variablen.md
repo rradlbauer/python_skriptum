@@ -1,4 +1,4 @@
-# Variablen - Übungen
+# UE_3.0 Variablen - Übungen
 
 Die folgenden Übungen sollen in der Python-Konsole durchgeführt werden.
 Kopiere nach jeder Übung den Python Code und das 
@@ -8,7 +8,7 @@ Dieses sollst du am Ende auf PDF umwandeln und abgeben.
 Bei diesen Übungen sollst du als Qualitätssicherung wieder
 jeweils ein Review durchführen.
 Bei jeder abgegebenen Übung muss die Information enthalten sein,
-mit wem du das Review durchgeführt hast, und ob Fehler gefunden wurden.
+mit wem und wann du das Review durchgeführt hast, und ob Fehler gefunden wurden.
 
 ### UE_3.0_1: deine Daten
 
