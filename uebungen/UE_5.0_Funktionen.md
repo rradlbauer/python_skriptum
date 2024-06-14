@@ -1,10 +1,20 @@
 # UE_5.0 Funktionen - Übungen
 
 Bei diesen Übungen geht es darum, Funktionen zu schreiben.
-Diese Funktionen müssen natürlich auch getestet werden.
+Du kannst alle Funktionen in einem Skript schreiben oder in mehreren Skripten.
+Die Funktionen sollen auf jeden Fall getestet werden.
 
 Zur Qualitätssicherung muss bei jeder Funktion ein Kommentar
 sein, der beschreibt, wie die Funktion getestet wurde.
+
+In deinem Protokoll soll sich daher zu jeder Übung folgender Inhalt befinden
+- der Programmcode der Funktion
+- eine Beschreibung, wie die Funktion getestet wurde
+- das Ergebnis des Tests
+- Wann der Test durchgeführt wurde
+
+Außer dem Protokoll gibst du auch die Script-Dateien ab,
+in denen die Funktionen implementiert sind.
 
 
 ### UE_5.0_1: Idealgewicht

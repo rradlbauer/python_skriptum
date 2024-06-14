@@ -3,18 +3,17 @@
 ### UE_3.1_1: Datentypen ausprobieren
 
 Überlege zuerst, welche Werte in den Variablen  `a` bis `z` 
-stehen und welchen Datenty sie jeweils haben und probiere dann aus, 
+stehen und welchen Datentyp sie jeweils haben und probiere dann aus, 
 ob du recht hattest.
 
-Erstelle ein Word-Dokument, und füge eine Tabelle mit 4 Spalten ein.
+Füge in dein Protokoll eine Tabelle mit 4 Spalten ein.
 In der ersten Spalte schreibst du die Variablennamen, in der zweiten Spalte
 die Werte, in der dritten Spalte die Datentypen.
 Wenn das Ergebnis für dich überraschend war, schreibst du in der vierten Spalte
 eine kurze Erklärung, warum es so ist.
 
-Bei diesen Übungen sollst du als Qualitätssicherung wieder
-jeweils ein Review durchführen.
-Bei jeder abgegebenen Übung muss die Information enthalten sein,
+Bei dieser Übung sollst du als Qualitätssicherung wieder ein Review durchführen.
+Das Protokoll muss die Information enthalten sein,
 mit wem und wann du das Review durchgeführt hast, und ob Fehler gefunden wurden.
 
 

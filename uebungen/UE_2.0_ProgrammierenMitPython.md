@@ -1,7 +1,8 @@
 # UE_2.0 Programmieren mit Python - Übungen
 
-Bei den folgenden Übungen sollst du Screenshots erstellen und in einem Word-Dokument speichern.
-Das Word-Dokument sollst du in ein PDF-Dokument umwandeln und abgeben.
+Bei den folgenden Übungen sollst du Screenshots erstellen 
+und in dein Protokoll einfügen.
+Das Protokoll sollst du in ein PDF-Dokument umwandeln und abgeben.
 
 Für die Übungen von diesem Abschnitt musst du keine Qualitätssicherung
 durchführen und daher auch nicht dokumentieren.
@@ -14,8 +15,8 @@ Damit startest du die Python-Konsole.
 Gib folgende Befehle ein und beobachte, was passiert.
 Mache davon einen Screenshot und füge ihn in dein Word-Dokument ein.
 
-(Die Zeichen `>>>` gibst du nicht ein, sondern das 
-ist die Eingabeaufforderung von Python.)
+*(Die Zeichen `>>>` gibst du nicht ein, sondern das 
+ist die Eingabeaufforderung von Python.)*
 
 ```python
 >>> 3 + 4
@@ -28,9 +29,9 @@ ist die Eingabeaufforderung von Python.)
 ### UE_2.0_2: Installation Thonny
 
 Das ist eine Hausübung:
-Installiere auf einem Rechner bei dir zu Hause die Entwicklungsumgebung Thonny.
+Installiere auf einem Computer bei dir zu Hause die Entwicklungsumgebung Thonny.
 Starte Thonny, erstelle einen Screenshot von der Benutzeroberfläche 
-und füge ihn in dein Word-Dokument ein.
+und füge ihn in dein Protokoll ein.
 
 ### UE_2.0_3: Thonny kennenlernen
 

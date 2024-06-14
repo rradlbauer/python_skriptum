@@ -4,13 +4,13 @@ Füge in allen Scripts, welche du für diese Aufgaben schreibst, Kommentare ein,
 welche die wesentlichen Schritte erklären.
 Außerdem vermerkst du ganz oben den Autor und das Datum des Scripts.
 
-Auf Moodle gibst du diesmal keine PDF-Datei ab, 
-sondern nur die Python-Scripts.
+Kopiere die Scripts in dein Protokoll und speichere sie dort ab.
+Auf Moodle gibst du diesmal nicht nur das Protokoll, sondern auch die Scripts ab.
 
 Für diese Übungen ist eine Qualitätssicherung notwendig.
 Entweder führst du ein Review durch oder du rechnest die 
 Berechnungen mit einem Taschenrechner nach.
-Dokumentiere das Ergebnis deiner Qualitätssicherung 
+Dokumentiere das Ergebnis deiner Qualitätssicherung zusätzlich zum Protokoll auch
 in einem Kommentar am Ende des jeweiligen Scripts.
 
 ### UE_4.0_1: Fläche des allgemeinen Dreiecks
@@ -51,7 +51,8 @@ Wiederhole das für einen BMI von 18.5.
 
 ### UE_4.0_6: Ventrikelflächen
 
-Schreibe die Berechnungen für die Flächen der Ventrikel 
+Schreibe die Berechnungen für die Flächen der Ventrikel von Übung 
+`UE_2.1_7: Ventrikel im Gehirn`
 aus dem Abschnitt
 [Python als Taschenrechner](UE_2.1_PythonAlsTaschenrechner.md) 
 in ein Script.

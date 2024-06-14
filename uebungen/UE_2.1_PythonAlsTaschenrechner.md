@@ -3,7 +3,7 @@
 Bei den folgenden Übungen sollst du
 verschiedene Berechnungen in der Python-Konsole durchführen.
 Kopiere die Berechnungen und Ergebnisse aus der Python Konsole 
-in ein Word-Dokument. Erkläre kurz, wie du die Berechnungen durchgeführt hast 
+in dein Protokoll. Erkläre kurz, wie du die Berechnungen durchgeführt hast 
 und gib Links zu den verwendeten Quellen an.
 
 Bei diesen Übungen sollst du als Qualitätssicherung ein Review durchführen.
@@ -11,7 +11,7 @@ Bitte einen Mitschüler oder eine Mitschülerin, deine Berechnungen zu überprü
 Füge bei der jeweiligen Aufgabe die Information ein, 
 mit wem du das Review wann durchgeführt hast, und ob dabei Fehler gefunden wurden.
 
-Konvertiere zum Schluss das Word-Dokument in ein PDF-Dokument, 
+Konvertiere zum Schluss das Protokoll in ein PDF-Dokument, 
 welches du dann auf Moodle abgibst.
 
 *Der Hauptzweck dieser Übungen ist es, dass du die Python-Konsole
@@ -109,7 +109,11 @@ Beispielsweise sind die Blütenstände von Sonnenblumen und Ananas
 oft so angeordnet, dass sie einer Fibonacci-Folge folgen;
 siehe http://www.mat.uc.pt/~mat1164/FibonacciAN.html)*
 
+### UE_2.1_9: Restdivision, Ganzzahldivision
 
+Berechne in der Python-Konsole die Restdivision 
+und die Ganzzahldivision von 17 durch 5.
+Erkläre in deinem Protokoll, was Restdivision und Ganzzahldivision ist.
 
 
 [<<](../skriptum/2.1_PythonAlsTaschenrechner.md)

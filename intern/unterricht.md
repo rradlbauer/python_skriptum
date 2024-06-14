@@ -3,7 +3,7 @@
 ## Ablauf
 
 Im 1. Jahrgang haben wir 4 Stunden pro Woche. 
-Davon sind 1 Stunde Theorie im Klassenraum und 3 Stunden Praxis im PC-Labor.
+Davon sind 3 Stunden Praxis im PC-Labor und 1 Stunde Theorie im Klassenraum.
 
 Der Unterricht wird also zum überwiegenden Teil aus Übungen bestehen,
 welche du auf einem PC im Labor durchführen sollst.
@@ -13,7 +13,7 @@ Daher ist es wichtig, dass du auch zu Hause eine Möglichkeit zum Arbeiten hast.
 
 Wir gehen nach einem Skriptum vor, in dem die wichtigsten 
 Grundlagen und Übungen enthalten sind. 
-Erklärungen werden im Unterricht meist nur dann erfolgen, 
+Erklärungen werden im Unterricht oft nur dann erfolgen, 
 wenn jemand etwas nicht verstanden hat oder wenn es sich um
 eine wichtige Information handelt, die nicht im Skriptum enthalten ist.
 
@@ -38,7 +38,7 @@ Deine Zeugnisnote setzt sich jeweils zu 50% aus Übungen und Prüfungen zusammen
 
 ### Prüfungen
 
-Pro Semester gibt es 3 Prüfungen + 1 Prüfung als Verbesserungsmöglichkeit.
+Pro Semester gibt es 2 Prüfungen + 1 Prüfung als Verbesserungsmöglichkeit.
 Für alle, die bei einer Prüfung fehlen, wird die Verbesserungsprüfung 
 zu einer normalen verpflichtenden Prüfung.
 Für alle anderen kann mit der Note der Verbesserungsprüfung die Note 
@@ -55,15 +55,12 @@ Anstatt nur die vorgegebenen Übungen durchzuführen, kannst du dir
 für jeden Abschnitt auch eine eigene Übung ausdenken, 
 die mit maximal 25 Punkten bewertet wird.
 In diesem Fall musst du die Aufgabenstellung für deine Übung vorher
-in einem eigenen Dokument beschreiben und kurz mit einem Lehrer besprechen.
+in einem eigenen Dokument beschreiben und mit einem Lehrer besprechen.
 
-Wenn du bei allen Abschnitten anwesend bist, zählen die Übungen insgesamt
-genauso viel wie die Prüfungen. Wenn du bei einem Abschnitt fehlst und daher
+Wenn du bei allen Abschnitten anwesend bist, zählen die Übungen aller Abschnitte
+insgesamt genauso viel wie die Prüfungen. Wenn du bei einem Abschnitt fehlst und daher
 die Übungen nicht abgeben kannst, werden die Übungen dieses Abschnitts 
-nicht bewertet, und die Übungen
-zählen insgesamt entsprechend weniger zur Note.
-
-
+nicht bewertet, und die Übungen zählen insgesamt entsprechend weniger zur Note.
 
 Bis zum Ende von jedem Abschnitt musst du also die Übungen abgeben. 
 Zusätzlich gibt es bei jedem Abschnitt eine Checkliste, auf der du ankreuzt,
@@ -73,12 +70,16 @@ Wenn eine angekreuzte Übung nicht abgegeben wurde oder die Abgabe
 keinen ernsthaften Versuch erkennen lässt, werden die Punkte dieser 
 Übung negativ gewertet.
 
-Wenn eine Übung abgegeben und richtig ist, bekommst du die volle Punktezahl.
+Wenn eine Übung abgegeben und richtig ist, bekommst du dafür die volle Punktezahl.
 Wenn die Übung nicht ganz richtig ist, bekommst du einen Teil der Punkte.
 Stichprobenartig wird auch kontrolliert, 
 ob du die Übungen wirklich selbst gemacht hast. Dabei musst du erklären können,
 wie du die Übung gelöst hast. Kannst du das nicht, dann bekommst du für die
 Übung 0 Punkte.
+
+Es ist natürlich gut, wenn du mit deinen Kolleginnen und Kollegen zusammenarbeitest 
+und ihr euch gegenseitig helft. Aber jede Übung, die du abgibst,
+muss von dir selbst gemacht sein, und du musst deine Arbeit erklären können.
 
 ### Beurteilungsstand
 
@@ -90,39 +91,6 @@ zu sehen sein. Am Ende des Semesters wird dann die Note von
 deinen Lehrern festgelegt, wobei die Beurteilung auf Moodle
 eine wichtige Rolle spielt. Aber auch die sonstige Mitarbeit
 im Unterricht und die Qualität deiner Prüfungen spielen eine Rolle.
-
-## Qualitätssicherung
-
-Die meisten Übungen werden Programmieraufgaben sein. 
-Bei Computerprogrammen ist die Qualität sehr wichtig.
-Es sind schon Flugzeuge aufgrund von Programmierfehlern abgestürzt.
-Und auch in der Medizin kann ein Fehler in einem Computerprogramm
-schwere Folgen haben.
-
-Es gibt verschiedene Möglichkeiten, 
-wie die Qualität von Computerprogrammen sichergestellt werden kann:
-
-Eine davon ist ein Review: Du bittest einen Kollegen, 
-dass er sich dein Programm gemeinsam mit dir
-anschaut und überprüft, ob es richtig ist.
-Das ist auch eine gute Möglichkeit, um zu lernen,
-denn wenn du jemandem etwas erklären kannst, dann hast du es wirklich verstanden.
-
-Eine andere Möglichkeit ist ein Test: 
-Du denkst dir Testfälle aus, die dein Programm erfüllen muss.
-Wenn du z.B. ein Programm schreibst, das überprüft, ob eine Zahl eine Primzahl ist,
-dann lässt du es für verschiedene Zahlen laufen und überprüfst, 
-ob es das richtige Ergebnis liefert.
-
-**Die Abgabe jeder Übung (mit wenigen Ausnahmen) muss auch 
-eine Dokumentation der Qualitätssicherung enthalten.** 
-
-Das bedeutet, dass du entweder ein Review oder einen Test durchführst
-und das Ergebnis dokumentierst.
-Für ein Review enthält diese Dokumentation die Information, 
-wann das Review stattgefunden hat,
-wer dein Reviewer war und was er gefunden hat.
-Für einen Test enthält die Dokumentation die Testfälle und das Ergebnis.
 
 ## Allgemeines zu den Übungen
 
@@ -136,7 +104,60 @@ die nichts mit Medizin oder Biologie zu tun haben.
 Bei einigen Übungen wird es notwendig sein, dass du Wissen aus anderen Fächern
 einsetzt oder dir Informationen aus anderen Quellen holst.
 Bitte bemühe dich, das selbständig zu tun.
-Wenn du aber nicht weiter kommst, dann hab bitte keine Scheu,
-deine Lehrer zu fragen.
+**Wenn du aber nicht weiter kommst, dann hab bitte keine Scheu,
+deine Lehrer zu fragen.**
+
+
+## Dokumentation
+
+Zu jedem Abschnitt ist ein Protokoll abzugeben.
+Das Protokoll enthält eine Dokumentation der Übungen, die du gemacht hast.
+Es muss folgende Punkte enthalten:
+- deinen Namen
+- den Abschnitt zu dem das Protokoll gehört
+- eine Liste der Übungen, die du gemacht hast (als Inhaltsverzeichnis)
+- zu jeder Übung:
+  - die Nummer der Übung
+  - den Programmcode
+  - Screenshots falls gefordert
+  - gegebenenfalls die Information, dass die Übung nicht komplett fertig ist
+  - eine Dokumentation der Qualitätssicherung
+
+
+### Qualitätssicherung
+
+Die meisten Übungen werden Programmieraufgaben sein. 
+Bei Computerprogrammen ist die Qualität sehr wichtig.
+Es sind schon Flugzeuge aufgrund von Programmierfehlern abgestürzt.
+Und auch in der Medizin kann ein Fehler in einem Computerprogramm
+schwere Folgen haben.
+
+Es gibt verschiedene Möglichkeiten, 
+wie die Qualität von Computerprogrammen sichergestellt werden kann:
+
+Ein Review: 
+Du bittest eine Kollegin oder einen Kollegen, 
+sich dein Programm gemeinsam mit dir anzuschauen
+und zu überprüfen, ob es richtig ist.
+Das ist auch eine gute Möglichkeit, um zu lernen,
+denn wenn du jemandem etwas erklären kannst, dann hast du es wirklich verstanden.
+
+Ein Test: 
+Du denkst dir Testfälle aus, die dein Programm erfüllen muss.
+Wenn du z.B. ein Programm schreibst, das überprüft, ob eine Zahl eine Primzahl ist,
+dann lässt du es für verschiedene Zahlen laufen und überprüfst, 
+ob es die richtigen Ergebnisse liefert.
+
+So musst du deine Qualitätssicherung dokumentieren, wenn nicht anders verlangt:
+
+Für ein Review enthält die Dokumentation die Information, 
+wann das Review stattgefunden hat,
+mit wem du das Review durchgeführt hast, 
+und welche Fehler ihr dabei gefunden habt.
+
+Für einen Test enthält die Dokumentation die Testfälle,
+das Datum und die Uhrzeit, wann du den Test durchgeführt hast,
+und das Ergebnis (gefundene Fehler bzw. erfolgreich bestandene Tests).
+
 
 

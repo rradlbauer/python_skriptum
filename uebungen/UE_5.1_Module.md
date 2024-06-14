@@ -11,6 +11,6 @@ Importiere dann dieses Modul in der Python Konsole und teste jede Funktion.
 
 Zur Dokumentation, dass alles getestet wurde und 
 richtig funktioniert, kopiere den Verlauf aus
-der Python Konsole in ein Word-Dokument. Mache daraus ein PDF und gib dieses ab.
+der Python Konsole in dein Protokoll. 
 
 [<<](../skriptum/5.1_Module.md)

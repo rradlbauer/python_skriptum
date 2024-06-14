@@ -2,8 +2,7 @@
 
 Die folgenden Übungen sollen in der Python-Konsole durchgeführt werden.
 Kopiere nach jeder Übung den Python Code und das 
-Ergebnis in ein Word-Dokument.
-Dieses sollst du am Ende auf PDF umwandeln und abgeben.
+Ergebnis in dein Protokoll.
 
 Bei diesen Übungen sollst du als Qualitätssicherung wieder
 jeweils ein Review durchführen.
@@ -20,7 +19,8 @@ Speichere einige Daten von dir in Variablen, z.B. Name, Alter, Größe, Gewicht,
 Berechne beide Lösungen der quadratischen Gleichung $3x^2 + 2x - 33 = 0$ 
 und speichere sie in 2 Variablen.
 Verwende dafür die [allgemeine Lösungsformel für quadratische Gleichungen](https://de.wikipedia.org/wiki/Quadratische_Gleichung#a-b-c-Formel).
-Hinweis: du kannst dafür natürlich auch noch weitere Hilfsvariablen verwenden.
+Hinweis: du kannst für den Rechenweg zu den Lösungen 
+natürlich auch noch weitere Hilfsvariablen verwenden.
 
 ### UE_3.0_3: Durchschnittsgröße
 
@@ -44,7 +44,7 @@ Führe einen Variablentausch durch,
 sodass in `a` der Wert von `b` und in `b` der Wert von `a` steht.
 Das sollst du machen, ohne die Zahlen noch einmal einzutippen.
 
-*Tipp: du kannst eine dritte Variable verwenden.*
+*Tipp: du benötigst dazu eine dritte Variable.*
 
 ### UE_3.0_6: Fibonacci-Zahlen
 

@@ -8,6 +8,10 @@ Für die Übungen zu diesem Abschnitt musst du
 ausnahmsweise keine Qualitätssicherung durchführen
 und daher auch nicht dokumentieren.
 
+Es ist aber auf jeden Fall ein Protokoll anzufertigen, 
+in dem deine Arbeit vorwiegend mit Screenshots dokumentiert wird.
+Details dazu sind bei den einzelnen Übungen angegeben.
+
 ### UE_1.0_1: Neuen Ordner erstellen
 Finde heraus, wie du einen neuen Ordner erstellen kannst.
 Erstelle in deinem Laufwerk P: einen neuen Ordner mit dem Namen `MGIN`.
@@ -15,7 +19,8 @@ Erstelle in diesem Ordner einen Unterordner mit dem Namen `Uebungen`.
 
 
 ### UE_1.0_2: Word-Dokument erstellen
-Erstelle in dem Ordner `Uebungen` ein neues Word-Dokument mit dem Namen `ComputerGrundkenntnisse.docx`.
+Erstelle in dem Ordner `Uebungen` ein neues Word-Dokument mit dem Namen 
+`Protokoll_Abschnitt1.docx`.
 Schreibe in dieses Dokument deinen Namen und das Datum.
 Speichere das Dokument ab.
 
@@ -30,7 +35,7 @@ Sehr viele davon sind Kombinationen mit den Tasten `Strg` (`Ctrl`) oder `Alt`.
 In Texten wird die Taste `Strg` oft mit `^` abgekürzt. Zum Beispiel wird `Strg` + `C` als `^C` abgekürzt.
 
 Finde heraus, mit welchen Tastenkombinationen du folgende Aufgaben erledigen kannst 
-und schreibe die Lösungen in dein Word-Dokument:
+und schreibe die Lösungen in dein Protokoll:
 
 - Eine Datei kopieren
 - Eine Datei ausschneiden
@@ -49,7 +54,7 @@ und schreibe die Lösungen in dein Word-Dokument:
 
 ### UE_1.0_4: Screenshot erstellen
 Die nächste Übung besteht darin, einen Screenshot zu erstellen 
-und diesen in dein Word-Dokument einzufügen. 
+und diesen in dein Protokoll einzufügen. 
 
 Du sollst nämlich die meisten weiteren Übungen, 
 welche hier aufgelistet sind, mit Screenshots dokumentieren.
@@ -57,10 +62,11 @@ welche hier aufgelistet sind, mit Screenshots dokumentieren.
 Screenshots kannst du mit der Tastenkombination `Windows-Taste` + `Druck` erstellen. 
 Damit wird der gesamte Bildschirm abfotografiert und in die Zwischenablage kopiert.
 Oft ist es aber sinnvoller, nur einen Teil des Bildschirms abzufotografieren.
-Das geht mit dem Programm ```Ausschneiden und skizzieren```, welches du über die Suche starten kannst.
+Das geht mit dem Programm `Ausschneiden und skizzieren`, 
+welches du über die Suche starten kannst.
 
-Erstelle also einen Screenshot von diesem Text (Abschnitt UE_A2_2) 
-und füge ihn in dein Word-Dokument ein.
+Erstelle also einen Screenshot von diesem Text (Abschnitt UE_1.0_4) 
+und füge ihn in dein Protokoll ein.
 
 ### UE_1.0_5: Dateiendungen im Datei-Explorer anzeigen
 
@@ -68,37 +74,40 @@ Im Datei-Explorer von Windows werden Dateiendungen standardmäßig nicht angezei
 Das ist aber wichtig, um Dateien richtig zu benennen und zu erkennen.
 
 Finde heraus, wie du die Dateiendungen im Datei-Explorer anzeigen lassen kannst.
-Beschreibe in deinem Word-Dokument, was du herausgefunden hast.
+Beschreibe in deinem Protokoll, was du herausgefunden hast.
 Mache einen Screenshot von einem Ordner, in dem Dateiendungen angezeigt werden,
-und füge diesen in dein Word-Dokument ein.
+und füge diesen in dein Protokoll ein.
 
 
 ### UE_1.0_6: Dateien und Ordner umbenennen
 
 Finde heraus, wie du Dateien und Ordner umbenennen kannst.
-Beschreibe in deinem Word-Dokument, wie das funktioniert.
+Beschreibe in deinem Protokoll, wie das funktioniert.
 Benenne den Ordner `Uebungen` in `Aufgaben` um.
 (Beschreibe auch, ob dabei Probleme aufgetreten sind.)
 
 ### UE_1.0_7: Browser-Einstellungen
 
 Finde heraus, wo du die Einstellungen für deinen Browser ändern kannst.
-Mache einen Screenshot von den Einstellungen und füge ihn in dein Word-Dokument ein.
-Suche die Einstellung für das Herunterladen von Dateien, und stellen deinen Browser so ein,
+Mache einen Screenshot von den Einstellungen und füge ihn in dein Protokoll ein.
+Suche die Einstellung für das Herunterladen von Dateien, 
+und stellen deinen Browser so ein,
 dass er dich jedes Mal fragt, wohin er eine Datei speichern soll.
+
+Erstelle im Browser ein Lesezeichen für unseren Moodle-Kurs und für dieses Skriptum.
 
 ### UE_1.0_8: E-Mail versenden / empfangen
 
-versende von deinem Schul-Email-Account ein E-Mail an einen Freund 
+Versende von deinem Schul-Email-Account ein E-Mail an einen Kollegen 
 und bitte ihn um eine Antwort. Erstelle von der Antwort im E-Mail-Programm
-einen Screenshot und füge diesen in dein Word-Dokument ein
+einen Screenshot und füge diesen in dein Protokoll ein
 
 ### UE_1.0_9: Task-Manager verwenden
 
 Finde heraus, wie du den Task-Manager von Windows starten kannst.
 Suche dann den Prozess "Windows Explorer" und beende ihn.
 Starte dann den Prozess wieder neu. 
-Beschreibe in deinem Word-Dokument, wie du den Task-Manager starten kannst,
+Beschreibe in deinem Protokoll, wie du den Task-Manager starten kannst,
 wie du einen Prozess beendest und wie du ihn wieder neu startest.
 Beschreibe auch wie sich das auswirkt, 
 wenn man den Prozess "Windows Explorer" beendet.
@@ -156,20 +165,20 @@ Verwende den Befehl `del` um die Datei `ich.txt` zu löschen.
 Verwende den Befehl `rmdir` um den Ordner `Test` zu löschen.
 
 Kopiere nun den kompletten Inhalt der 
-Eingabeaufforderung in dein Word-Dokument.
+Eingabeaufforderung in dein Protokoll.
 (Mit `^A` kannst du alles markieren und mit `^C` kopieren.)
 
-### UE_1.0_13: Word-Dokument auf PDF umwandeln
+### UE_1.0_13: Protokoll auf PDF umwandeln
 
+Füge in deinem Protokoll als Fußzeile Seitenzahlen und deinen Namen ein.
 Finde heraus, wie du ein Word-Dokument in ein PDF-Dokument umwandeln kannst.
-Füge in deinem Word-Dokument als Fußzeile Seitenzahlen und deinen Namen ein.
-Speichere das Word-Dokument ab und wandele es in ein PDF-Dokument um.
+Speichere das Protokoll ab und wandele es in ein PDF-Dokument um.
 Gib dann das PDF-Dokument auf Moodle ab.
 
 ### UE_1.0_14: Drucken
 
 Finde heraus, wie du in der Schul-Umgebung drucken kannst.
-Drucke die erste Seite deines Word-Dokuments aus und gib sie deine Lehrern ab.
+Drucke die erste Seite deines Protokolls aus und gib sie deinen Lehrern ab.
 
 
 
