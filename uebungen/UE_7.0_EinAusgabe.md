@@ -5,7 +5,10 @@ dass du die Scripte mehrmals laufen lässt und dabei
 verschiedene Eingaben machst.
 Alternativ kannst du auch ein Review durchführen.
 Die Qualitätssicherungsmaßnahme muss auf jeden Fall
-im Script als Kommentar vermerkt werden.
+im Script als Kommentar vermerkt werden und auch im Protokoll
+dokumentiert werden.
+
+Abzugeben sind die Script-Dateien und das Protokoll.
 
 ### UE_I0_1: Dreiecksfläche
 

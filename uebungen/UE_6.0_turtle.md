@@ -2,9 +2,12 @@
 
 Zu diesen Übungen besteht die Qualitätssicherung darin,
 dass du als Dokumentation Screenshots von deinen Lösungen machst
-und diese in einem Word-Dokument speicherst.
-Wandle das Word-Dokument 
-in ein PDF-Dokument um und gib dieses ab.
+und diese in deinem Protokoll speicherst.
+
+Außerdem soll wie immer der Programmcode 
+in dein Protokoll kopiert werden.
+
+Außer dem Protokoll sollen die Script-Dateien abgegeben werden.
 
 ### UE_6.0_1: Blume mit Funktionen
 

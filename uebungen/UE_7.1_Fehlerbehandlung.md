@@ -8,6 +8,8 @@ Als Dokumentation für die Qualitätssicherung sollst
 in den Scripten Kommentare einfügen, in welchen du 
 die fehlerhaften Eingaben und die erhaltenen Fehlermeldungen beschreibst.
 
+Abzugeben sind die Script-Dateien und das Protokoll.
+
 Beispiel:
 ```python
 # Test: Eingabe von Buchstaben 
@@ -21,6 +23,6 @@ Beispiel:
 
 Überarbeite alle Übungen aus dem Abschnitt
 [UE_7.0 Ein-/Ausgabe](../uebungen/UE_7.0_EinAusgabe.md):
-Füge überall, wo ein Benuzter Fehler machen kann, eine Fehlerbehandlung ein.
+Füge überall, wo ein Benutzer Fehler machen kann, eine Fehlerbehandlung ein.
 
 [<<](../skriptum/7.1_Fehlerbehandlung.md)

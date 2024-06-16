@@ -44,7 +44,15 @@ Die Funktion soll dann `True` zurückgeben, wenn das Datum korrekt ist, ansonste
 
 ### UE_J0_5: Body Mass Index mit Bewertung
 
-![BMI_Tabelle.png](../img/8.0/BMI_Tabelle.png)
+| Alter | BMI Männer | BMI Frauen |
+|-------|------------|------------|
+| 19-24 | 19-24      | 18-23      |
+| 25-34 | 20-25      | 19-24      |
+| 35-44 | 21-26      | 20-25      |
+| 45-54 | 22-27      | 21-26      |
+| 55-64 | 23-28      | 22-27      |
+| 65+   | 24-29      | 23-28      |
+
 *[Quelle](https://plakos-akademie.de/bmi-rechner/)*
 
 Diese Tabelle zeigt die Normalwerte für den Body Mass Index (BMI) für Frauen und Männer
@@ -56,7 +64,9 @@ von 20 bis 25 normalgewichtig und über 25 übergewichtig.
 Erstelle eine Funktion, welcher man das Geschlecht, 
 das Alter, die Größe in cm und das Gewicht in kg übergeben kann.
 Die Funktion soll dann den BMI berechnen und eine Bewertung 
-entsprechend dieser Tabelle zurückgeben.
+entsprechend dieser Tabelle zurückgeben. 
+Die Funktion soll also einen der folgenden Texte zurückgeben:
+`'untergewichtig'`, `'normalgewichtig'`, `'übergewichtig'`.
 
 ### UE_J0_6: Dreiecksungleichung
 
@@ -69,6 +79,27 @@ Die Dreiecksungleichung besagt,
 dass die Summe der Längen zweier Seiten eines Dreiecks
 immer größer sein muss als die Länge der dritten Seite.
 
+### UE_J0_7: Vom Aminosäuren-Code zur Aminosäure
+
+In den Mitochondrien einer Zelle werden aus dem genetischen Code der RNA
+Aminosäuren hergestellt.
+Immer 3 Basen des genetischen Codes bilden ein sogenanntes Codon, 
+welches für eine Aminosäure steht.
+Aus welchem Codon welche Aminosäure entsteht, kann man von der Codon-Sonne ablesen.
+Das wird z.B. hier genauer erklärt:
+[StudyFlix Codesonne](https://studyflix.de/biologie/codesonne-2539).
+
+Man beginnt immer in der Mitte der Sonne und liest dann die Aminosäure ab,
+welche durch die 3 Basen des Codons codiert wird.
+Z.B. steht das Codon `GCA` für die Aminosäure `Ala` (Alanin).
+
+<a title="Mouagip, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Aminoacids_table.svg"><img width="512" alt="Aminoacids table" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Aminoacids_table.svg/512px-Aminoacids_table.svg.png?20210405175054"></a>
+
+Erstelle eine Funktion `transkription`, welcher man 3 Basen übergeben kann.
+Die Funktion soll dann die entsprechende Aminosäure zurückgeben.
+
+Beispiel: `transkription('G', 'C', 'A')` soll den String `'Ala'` zurückgeben.
+`transkription('U', 'G', 'A')` soll den String `'Stop'` zurückgeben.
 
 
 
