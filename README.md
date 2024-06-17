@@ -16,7 +16,9 @@
 - [8.0 Fälle unterscheiden - bedingte Anweisungen](skriptum/8.0_IfElse.md)
 - [9.0 Listen](skriptum/9.0_Listen.md)
 - [9.1 Iteration - Anweisungen für alle Elemente einer Liste wiederholen](skriptum/9.1_Iteration.md)
+- [9.2 While-Schleife](skriptum/9.2_While_Schleife.md)
 - [10.0 Algorithmen](skriptum/10.0_Algorithmen.md)
+- [11.0 Methoden](skriptum/11.0_Methoden.md)
 
 
 
