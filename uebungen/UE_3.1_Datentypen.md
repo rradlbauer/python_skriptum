@@ -45,7 +45,7 @@ mit wem und wann du das Review durchgeführt hast, und ob Fehler gefunden wurden
 >>> w = 'w' 
 >>> x = 'w'
 >>> y = w == x
->>> z = !y
+>>> z = not y
 ```
 
 
