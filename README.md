@@ -19,6 +19,8 @@
 - [9.2 While-Schleife](skriptum/9.2_While_Schleife.md)
 - [10.0 Algorithmen](skriptum/10.0_Algorithmen.md)
 - [11.0 Methoden](skriptum/11.0_Methoden.md)
+- [12.0 Tupel](skriptum/12.0_Tupel.md)
+- [13.0 CSV Dateien](skriptum/13.0_CSV_Dateien.md)
 
 
 
