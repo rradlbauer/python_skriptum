@@ -1,6 +1,6 @@
 # UE_9.0 Listen - Übungen
 
-### UE_K0_1: Listenoperationen
+### UE_9.0_1: Listenoperationen
 
 Erstelle ein Script, welches folgende Operationen durchführt:
 

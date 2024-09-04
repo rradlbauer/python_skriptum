@@ -115,7 +115,6 @@ Das Protokoll enthält eine Dokumentation der Übungen, die du gemacht hast.
 Es muss folgende Punkte enthalten:
 - deinen Namen
 - den Abschnitt zu dem das Protokoll gehört
-- eine Liste der Übungen, die du gemacht hast (als Inhaltsverzeichnis)
 - zu jeder Übung:
   - die Nummer der Übung
   - den Programmcode
