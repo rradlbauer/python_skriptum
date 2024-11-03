@@ -23,11 +23,11 @@ Schreibe ein Skript, welches Benutzer nach Gewicht in kg und
 Größe in cm fragt und den Body Mass Index (BMI) berechnet und ausgibt.
 Der BMI wird nach folgender Formel berechnet:
 
-    $$ BMI = \frac{Gewicht}{Größe^2} $$ 
+$$ BMI = \frac{Gewicht}{Größe^2} $$ 
     
-    (Gewicht in kg, Größe in m)
+(Gewicht in kg, Größe in m)
 
-    ACHTUNG: Die Größe muss in Meter umgerechnet werden.
+ACHTUNG: Die Größe muss in Meter umgerechnet werden.
 
 ### UE_7.0_3: Spannungsteiler
 
