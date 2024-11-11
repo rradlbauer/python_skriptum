@@ -40,7 +40,7 @@ die sich aus dem Verhältnis der Widerstände ergibt.
 Du hast wahrscheinlich im BMSV-Unterricht bereits gelernt,
 wie ein Spannungsteiler funktioniert.
 
-Schreibe ein Skript, welches Benutzer nach den Widerständen $R_1$ und $R_1$ 
+Schreibe ein Skript, welches Benutzer nach den Widerständen $R_1$ und $R_2$ 
 und nach der Gesamtspannung $U$ fragt
 und die Spannungen $U_1$ und $U_2$ ausgibt, die an den Widerständen abfabfallen.
 
