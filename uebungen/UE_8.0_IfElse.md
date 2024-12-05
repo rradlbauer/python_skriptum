@@ -79,7 +79,7 @@ Die Dreiecksungleichung besagt,
 dass die Summe der Längen zweier Seiten eines Dreiecks
 immer größer sein muss als die Länge der dritten Seite.
 
-### UE_8.0_7: Vom Aminosäuren-Code zur Aminosäure
+### UE_8.0_7: Vom RNA-Code zur Aminosäure
 
 In den Mitochondrien einer Zelle werden aus dem genetischen Code der RNA
 Aminosäuren hergestellt.
