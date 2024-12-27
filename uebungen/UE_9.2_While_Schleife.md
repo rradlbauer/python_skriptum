@@ -1,4 +1,30 @@
 # UE_9.2 While Schleife - Übungen
 
+### UE_9.2_1: Eingabeschleife
+
+Schreibe eine Funktion, welche immer wieder zur Eingabe eines Namens auffordert.
+Wenn ein Benutzer einen Namen eingibt, wird dieser an eine Liste angefügt.
+Die Schleife wird beendet, wenn der Benutzer nichts eingibt 
+(einfach Enter drückt = Eingabe eines leeren Strings).
+Die Funktion gibt die Liste der eingegebenen Namen zurück.
+
+### UE_9.2_2: Zahlenraten
+
+Schreibe ein Programm, welches eine Zufallszahl zwischen 1 und 100 erzeugt.
+Der Benutzer soll dann so lange raten, bis er die Zahl erraten hat.
+Das Programm gibt nach jedem Versuch an, 
+ob die gesuchte Zahl größer oder kleiner ist.
+Am Ende gibt das Programm aus, wie viele Versuche der Benutzer benötigt hat.
+
+> **Anleitung:**
+> 
+> Verwende die Funktion `randint` aus dem Modul `random`:
+> ```python
+> from random import randint
+> zufallszahl = randint(1, 100)
+> ```
+
+
+
 
 [<<](../skriptum/9.2_While_Schleife.md)
