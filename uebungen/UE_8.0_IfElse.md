@@ -34,6 +34,12 @@ Ein Jahr ist ein Schaltjahr, wenn es durch 4 teilbar ist.
 Jedoch ist ein Jahr kein Schaltjahr, wenn es durch 100 teilbar ist.
 Es sei denn, das Jahr ist durch 400 teilbar, dann ist es doch ein Schaltjahr.
 
+Teste deine Funktion mit folgenden Jahreszahlen:
+* 2025 ist kein Schaltjahr
+* 2024 ist ein Schaltjahr
+* 1900 ist kein Schaltjahr
+* 2000 ist ein Schaltjahr
+
 ### UE_8.0_4: Datumsprüfung
 
 Erstelle eine Funktion, welcher man drei Zahlen übergeben kann.
