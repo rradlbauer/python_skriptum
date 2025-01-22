@@ -102,6 +102,20 @@ wobei $g = 9.81 \frac{m}{s^2}$ die Erdbeschleunigung ist.
 welche durch den Gewinn an Höhe verbraucht wird. 
 In Wirklichkeit wird der Bergsteiger deutlich mehr Energie benötigen.)*
 
+### UE_5.0_8: Ziffernsumme
+
+Schreibe eine Funktion `ziffernsumme(n)`,
+welche eine Zahl `n` erhält und die Summe der Ziffern dieser Zahl zurückgibt.
+(Weil das Thema Schleifen erst später behandelt wird, kann davon ausgegangen werden,
+dass die Zahl `n` maximal 5 Ziffern hat.)
+
+#### Anleitung:
+
+Die 3. Ziffer von rechts erhältst du zum Beispiel, indem du die letzten 2 Ziffern
+"wegschneidest" und dann den Rest bei Division durch 10 nimmst.
+Das "Wegschneiden" machst du, indem du die Zahl mit Integerdivision 
+durch 100 (= 10<sup>2</sup>) teilst.
+
 
 
 
