@@ -20,7 +20,8 @@
 - [10.0 Algorithmen](skriptum/10.0_Algorithmen.md)
 - [11.0 Methoden](skriptum/11.0_Methoden.md)
 - [12.0 Tupel](skriptum/12.0_Tupel.md)
-- [13.0 CSV Dateien](skriptum/14.0_CSV_Dateien)
+- [13.0 Datum und Uhrzeit](skriptum/13.0_Datum_und_Uhrzeit.md)
+- [14.0 CSV Dateien](skriptum/14.0_CSV_Dateien.md)
 
 
 
