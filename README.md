@@ -22,6 +22,8 @@
 - [12.0 Tupel](skriptum/12.0_Tupel.md)
 - [13.0 Datum und Uhrzeit](skriptum/13.0_Datum_und_Uhrzeit.md)
 - [14.0 CSV Dateien](skriptum/14.0_CSV_Dateien.md)
+- [15.0 Set und Dict](skriptum/15.0_set_dict.md)
+- [15.1 List Comprehension](skriptum/15.1_list_comprehension.md)
 
 
 
