@@ -59,7 +59,7 @@ Berechne dein Blutvolumen (ca. 7% deines Körpergewichts)
 
 ### UE_2.1_7: Ventrikel im Gehirn
 
-![MRI_brain.png](../img/2.1/MRI_brain.png)
+![MRI_brain.png](../img/02.1/MRI_brain.png)
 
 In diesem Bild siehst du ein `Magnetresonanz-Tomographie 
 (MRT)` - Bild von einem menschlichen Gehirn.
@@ -116,4 +116,4 @@ und die Ganzzahldivision von 17 durch 5.
 Erkläre in deinem Protokoll, was Restdivision und Ganzzahldivision ist.
 
 
-[<<](../skriptum/2.1_PythonAlsTaschenrechner.md)
+[<<](../skriptum/02.1_PythonAlsTaschenrechner.md)

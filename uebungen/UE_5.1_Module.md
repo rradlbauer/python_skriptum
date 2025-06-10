@@ -3,7 +3,7 @@
 ### UE_5.1_1: Funktionen in einem eigenen Modul
 
 Erstelle ein Modul für alle Funktionen aus den  
-[Übungen zum Abschnitt 5.0 Funktionen](../uebungen/UE_5.0_Funktionen.md).
+[Übungen zum Abschnitt 5.0 Funktionen](../uebungen/UE_05.0_Funktionen).
 Falls du sie schon alle in eine einzelne Python Datei geschrieben hast,
 ist das gut, andernfalls kopiere sie in eine Datei (= Modul).
 
@@ -20,7 +20,7 @@ die die Fläche eines Dreiecks berechnet,
 wenn zwei Seiten `a` und `b` und der eingeschlossene 
 Winkel `gamma` bekannt sind.
 
-![Dreieck mit Seiten und Winkeln](../img/5.1/dreieck_seiten_winkel.png)
+![Dreieck mit Seiten und Winkeln](../img/05.1/dreieck_seiten_winkel.png)
 
 Die Fläche eines Dreiecks kann mit der Formel
 
@@ -46,4 +46,4 @@ Diese Funktion berechnet das Produkt aller natürlichen Zahlen
 von `1` bis `n`. (Beispiel: `factorial(5)` ergibt `120`).
 
 
-[<<](../skriptum/5.1_Module.md)
+[<<](../skriptum/05.1_Module.md)
