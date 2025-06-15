@@ -1,5 +1,7 @@
 # Inhalt
 
+## Teil I
+
 - [0.0 Über dieses Skriptum](skriptum/00.0_UeberDiesesSkriptum.md)
 - [1.0 Computer Grundkenntnisse](skriptum/01.0_ComputerGrundkenntnisse.md)
 - [2.0 Programmieren mit Python](skriptum/02.0_ProgrammierenMitPython.md)
@@ -25,6 +27,11 @@
 - [15.0 Set und Dict](skriptum/15.0_set_dict.md)
 - [15.1 List Comprehension](skriptum/15.1_list_comprehension.md)
 
+## Teil II
 
+- [20.0 Informationen zum Teil II](skriptum/20.0_Infos_Teil2.md)
+- [20.1 Entwicklungsumgebung PyCharm](skriptum/20.1_PyCharm.md)
+- [20.2 Virtuelle Python Umgebung (venv)](skriptum/20.2_venv.md)
+- [20.3 Jupyter Notebooks](skriptum/20.3_jupyter.md)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
