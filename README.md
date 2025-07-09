@@ -33,5 +33,6 @@
 - [20.1 Entwicklungsumgebung PyCharm](skriptum/20.1_PyCharm.md)
 - [20.2 Virtuelle Python Umgebung (venv)](skriptum/20.2_venv.md)
 - [20.3 Jupyter Notebooks](skriptum/20.3_jupyter.md)
+- [21.0 Type Hints](skriptum/21.0_type_hints.md)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
