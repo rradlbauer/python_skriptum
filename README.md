@@ -34,5 +34,7 @@
 - [20.2 Virtuelle Python Umgebung (venv)](skriptum/20.2_venv.md)
 - [20.3 Jupyter Notebooks](skriptum/20.3_jupyter.md)
 - [21.0 Type Hints](skriptum/21.0_type_hints.md)
+- [22.0 Klassen](skriptum/22.0_Klassen.md)
+- [22.1 UML](skriptum/22.1_UML.md)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
