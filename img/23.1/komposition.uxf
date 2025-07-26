@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>20</y>
+      <w>200</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Krankenakte
+--
+ patient : Patient
+ messerte : list[Messwert]
+--
+ __init__(patient)
+ add_messwert(messwert)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>20</y>
+      <w>260</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Patient
+--
+ svnr : int
+ name : str
+ geburt : date
+--
+ __init__(svnr, name, geburt)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>40</y>
+      <w>140</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>120.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>150</y>
+      <w>260</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Messwert
+--
+ temperatur : float
+ systole : int
+ diastole : int
+ zeitpunkt : datetime
+--
+ __ init__(temperatur, systole, diastole)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>220</x>
+      <y>60</y>
+      <w>140</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;50.0;10.0;50.0;140.0;120.0;140.0</additional_attributes>
+  </element>
+</diagram>
