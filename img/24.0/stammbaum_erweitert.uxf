@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>220</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Person
+--
+ name : str
+ geburt : date
+ geschlecht : char
+ mutter : Person
+ vater : Person
+ kinder : list[Person]
+--
+ __init__(name, geschlecht)
+ kind_einfuegen(kind : Person)
+ nachkommen() : list[Person]
+ vorfahren() : list[Person]
+ geschwister() : list[Person]</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

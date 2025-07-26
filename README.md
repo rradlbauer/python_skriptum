@@ -36,5 +36,7 @@
 - [21.0 Type Hints](skriptum/21.0_type_hints.md)
 - [22.0 Klassen](skriptum/22.0_Klassen.md)
 - [22.1 UML](skriptum/22.1_UML.md)
+- [23.0 Assoziationen](skriptum/23.0_Assoziationen.md)
+- [24.0 Referenzen](skriptum/24.0_Referenzen.md)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
