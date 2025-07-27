@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>320</x>
+      <y>20</y>
+      <w>190</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>Geraet
+--
+ id : int
+ hersteller : str
+ fertigstellung : date
+ letzte_wartung : date
+--
+ __init__(id)
+ naechste_wartung() : date
+ alter() : int
+ info() : str
+ </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>240</y>
+      <w>160</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>RoentgenGeraet
+--
+ spannung : float
+ digital : bool
+ roehren_tausch : date
+--
+ __init__(id)
+ </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>230</x>
+      <y>240</y>
+      <w>270</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>MR_Scanner
+--
+ feldstaerke : float
+ durchmesser : int
+ software_version : str
+--
+ __init__(id, tesla, durchmesser, laenge)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>530</x>
+      <y>240</y>
+      <w>180</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>CT_Scanner
+--
+ durchmesser : int
+ detektor : str
+--
+ __init__(id)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>100</x>
+      <y>180</y>
+      <w>330</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>310.0;10.0;310.0;30.0;10.0;30.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>400</x>
+      <y>180</y>
+      <w>230</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;30.0;210.0;30.0;210.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>400</x>
+      <y>180</y>
+      <w>30</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>30</y>
+      <w>200</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>GeraeteVerwaltung
+--
+ institut : str
+ geraete : list[Geraet]
+--
+ __init__(institut)
+ neu(g : Geraet)
+ wartung_faellig() : list[Geraet]
+ hersteller() : list[str]
+ 
+ </panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>230</x>
+      <y>70</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
+  </element>
+</diagram>
