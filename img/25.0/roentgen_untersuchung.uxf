@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>490</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>RoentgenUntersuchung
+--
+ zeitpunkt : datetime
+ patient : str
+ arzt : str
+ kontrastmittel : bool
+ anzahl_bilder : int
+ dosis : float
+ bereich : str
+--
+ __init__(zeitpunkt, patient, arzt, kontrastmittel, anzahl_bilder, dosis, bereich)</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

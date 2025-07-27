@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>230</y>
+      <w>490</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>RoentgenUntersuchung
+--
+ kontrastmittel : bool
+ anzahl_bilder : int
+ dosis : float
+ bereich : str
+--
+ __init__(zeitpunkt, patient, arzt, kontrastmittel, anzahl_bilder, dosis, bereich)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>380</x>
+      <y>20</y>
+      <w>220</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Untersuchung
+--
+ zeitpunkt : datetime
+ patient : Patient
+ arzt : str
+--
+ __init__(zeitpunkt, patient, arzt)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>230</x>
+      <y>120</y>
+      <w>270</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>250.0;10.0;250.0;70.0;10.0;70.0;10.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>230</y>
+      <w>310</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>LaborUntersuchung
+--
+ art : str
+ nuechtern : bool
+--
+ __init__(zeitpunkt, patient, arzt, art, nuechtern)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>470</x>
+      <y>120</y>
+      <w>230</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0;210.0;70.0;210.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>50</x>
+      <y>10</y>
+      <w>250</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>Patient
+--
+ svnr : int
+ name : str
+ geburt : date
+ untersuchungen : list[Untersuchung]
+--
+ __init__(svnr, name, geburt)
+ neu(u : Untersuchung)
+ anzahl_bilder() : int
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>290</x>
+      <y>60</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>290</x>
+      <y>80</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
+  </element>
+</diagram>

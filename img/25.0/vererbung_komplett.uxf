@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>200</y>
+      <w>490</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>RoentgenUntersuchung
+--
+ kontrastmittel : bool
+ anzahl_bilder : int
+ dosis : float
+ bereich : str
+--
+ __init__(zeitpunkt, patient, arzt, kontrastmittel, anzahl_bilder, dosis, bereich)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>170</x>
+      <y>20</y>
+      <w>220</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Untersuchung
+--
+ zeitpunkt : datetime
+ patient : Patient
+ arzt : str
+--
+ __init__(zeitpunkt, patient, arzt)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>230</x>
+      <y>120</y>
+      <w>60</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>40.0;10.0;40.0;40.0;10.0;40.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>200</y>
+      <w>310</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>LaborUntersuchung
+--
+ art : str
+ nuechtern : bool
+--
+ __init__(zeitpunkt, patient, arzt, art, nuechtern)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>260</x>
+      <y>120</y>
+      <w>440</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0;420.0;40.0;420.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>500</x>
+      <y>20</y>
+      <w>190</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Patient
+--
+ svnr : int
+ name : str
+ geburt : date
+--
+ __init__(svnr, name, geburt)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>380</x>
+      <y>60</y>
+      <w>140</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+</panel_attributes>
+    <additional_attributes>120.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+</diagram>

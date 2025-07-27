@@ -38,5 +38,6 @@
 - [22.1 UML](skriptum/22.1_UML.md)
 - [23.0 Assoziationen](skriptum/23.0_Assoziationen.md)
 - [24.0 Referenzen](skriptum/24.0_Referenzen.md)
+- [25.0 Vererbung](skriptum/25.0_Vererbung.md)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)

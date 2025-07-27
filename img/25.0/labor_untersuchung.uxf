@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>180</y>
+      <w>490</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>RoentgenUntersuchung
+--
+ kontrastmittel : bool
+ anzahl_bilder : int
+ dosis : float
+ bereich : str
+--
+ __init__(zeitpunkt, patient, arzt, kontrastmittel, anzahl_bilder, dosis, bereich)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>10</y>
+      <w>220</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Untersuchung
+--
+ zeitpunkt : datetime
+ patient : str
+ arzt : str
+--
+ __init__(zeitpunkt, patient, arzt)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>230</x>
+      <y>110</y>
+      <w>310</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>290.0;10.0;290.0;30.0;10.0;30.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>180</y>
+      <w>310</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>LaborUntersuchung
+--
+ art : str
+ nuechtern : bool
+--
+ __init__(zeitpunkt, patient, arzt, art, nuechtern)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>510</x>
+      <y>110</y>
+      <w>190</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;30.0;170.0;30.0;170.0;70.0</additional_attributes>
+  </element>
+</diagram>
