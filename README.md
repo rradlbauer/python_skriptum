@@ -26,6 +26,7 @@
 - [14.0 CSV Dateien / DataFrame](skriptum/14.0_CSV_Dateien.md)
 - [15.0 Set und Dict](skriptum/15.0_set_dict.md)
 - [15.1 List Comprehension](skriptum/15.1_list_comprehension.md)
+- [16.0 Eingebaute Funktionen](skriptum/16.0_eingebaute_Funktionen.md)
 
 ## Teil II
 
@@ -40,5 +41,9 @@
 - [24.0 Referenzen](skriptum/24.0_Referenzen.md)
 - [25.0 Vererbung](skriptum/25.0_Vererbung.md)
 - [25.1 Polymorphie](skriptum/25.1_Polymorphie.md)
+- [26.0 Exceptions](skriptum/26.0_Exceptions.md)
+- [27.0 Datenkapselung](skriptum/27.0_Datenkapselung.md)
+- [28.0 Spezielle Methoden](skriptum/28.0_spezielle_Methoden.md)
+- [29.0 Container](skriptum/29.0_Container.md)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
