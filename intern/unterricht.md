@@ -13,9 +13,9 @@ Daher ist es wichtig, dass du auch zu Hause eine Möglichkeit zum Arbeiten hast.
 
 Wir gehen nach einem Skriptum vor, in dem die wichtigsten 
 Grundlagen und Übungen enthalten sind. 
-Erklärungen werden im Unterricht oft nur dann erfolgen, 
-wenn jemand etwas nicht verstanden hat oder wenn es sich um
-eine wichtige Information handelt, die nicht im Skriptum enthalten ist.
+Es wird erwartet, dass die Inhalte vom Skriptum gut gelernt werden.
+Empfohlen ist, die Kapitel bereits vorab zu lesen, damit Unklarheiten gleich im Unterricht
+behandelt werden können.
 
 **Daher ist eines besonders wichtig: Frag, wenn du etwas nicht verstehst!**
 
@@ -25,16 +25,18 @@ so dass immer jemand da ist, der bei Problemen helfen kann.
 Der Unterricht wird in Abschnitten stattfinden, die meist mit den Kapiteln
 des Skriptums übereinstimmen. 
 
-Die Übungen zu einem Abschnitt musst du auf Moodle abgeben. 
+Die Übungen zu einem Abschnitt musst du auf [Moodle](https://moodle.spengergasse.at) abgeben. 
 Zu den einzelnen Abschnitten gibt es fixe Abgabetermine,
 die du unbedingt einhalten musst. 
-Nur in Ausnahmefällen werden Abgabetermine verschoben.
+Nur in begründeten Ausnahmefällen werden Abgabetermine verschoben.
 Nach dem jeweiligen Abgabetermin werden zu den Übungen eines Abschnittes
 Musterlösungen auf Moodle veröffentlicht, daher hat eine Abgabe danach keinen Sinn mehr.
 
 ## Beurteilung
 
-Deine Zeugnisnote setzt sich jeweils zu 50% aus Übungen und Prüfungen zusammen.
+Deine Zeugnisnote setzt sich jeweils zu 50% aus Übungen und Prüfungen zusammen. 
+Sowohl der Übungs- als auch der Prüfungsteil müssen jeweils positiv sein, um eine positive Gesamtnote zu erhalten.
+Details folgen:
 
 ### Prüfungen
 
@@ -46,6 +48,7 @@ der schlechtesten Prüfung ersetzt werden.
   
 Die Prüfungen finden im Labor am PC statt, und du musst dabei ähnlich wie bei
 den Übungen selbständig Aufgaben (im Normalfall Programmieraufgaben) lösen.
+Es werden außerdem Theoriefragen gestellt.
 
 ### Übungen
 
@@ -57,14 +60,9 @@ die mit maximal 25 Punkten bewertet wird.
 In diesem Fall musst du die Aufgabenstellung für deine Übung vorher
 in einem eigenen Dokument beschreiben und mit einem Lehrer besprechen.
 
-Wenn du bei allen Abschnitten anwesend bist, zählen die Übungen aller Abschnitte
-insgesamt genauso viel wie die Prüfungen. Wenn du bei einem Abschnitt fehlst und daher
-die Übungen nicht abgeben kannst, werden die Übungen dieses Abschnitts 
-nicht bewertet, und die Übungen zählen insgesamt entsprechend weniger zur Note.
-
 Bis zum Ende von jedem Abschnitt musst du also die Übungen abgeben. 
 Zusätzlich gibt es bei jedem Abschnitt eine Checkliste, auf der du ankreuzt,
-welche Übungen du gemacht und abgegeben hast. Es wird dann stichprobenartig
+welche Übungen du gemacht und abgegeben hast. Es wird dann durch Abgabegspräche
 kontrolliert, ob du die Übungen auch wirklich gemacht hast.
 Wenn eine angekreuzte Übung nicht abgegeben wurde oder die Abgabe
 keinen ernsthaften Versuch erkennen lässt, werden die Punkte dieser 
@@ -72,7 +70,7 @@ keinen ernsthaften Versuch erkennen lässt, werden die Punkte dieser
 
 Wenn eine Übung abgegeben und richtig ist, bekommst du dafür die volle Punktezahl.
 Wenn die Übung nicht ganz richtig ist, bekommst du einen Teil der Punkte.
-Stichprobenartig wird auch kontrolliert, 
+Es wird auch kontrolliert, 
 ob du die Übungen wirklich selbst gemacht hast. Dabei musst du erklären können,
 wie du die Übung gelöst hast. Kannst du das nicht, dann bekommst du für die
 Übung 0 Punkte.
