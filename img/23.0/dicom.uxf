@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>130</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Patient
+--
+id : str
+name : str
+birthdate : date
+sex : str
+size : float
+weight : int
+smoking : bool
+studies : list[Study]
+--
+__init__(id)
+bytes() : int
+images() : int
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>200</x>
+      <y>20</y>
+      <w>140</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Study
+--
+id : str
+timestamp : datetime
+physician : str
+description : str
+series : list[Series]
+--
+__init__(id)
+bytes() : int
+images() : int
+duration() : timedelta</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>390</x>
+      <y>20</y>
+      <w>150</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Series
+--
+id : str
+modality : str
+timestamp : datetime
+description : str
+operator : str
+bodyPart : str
+images : list[Image]
+--
+__init__(id)
+bytes() : int
+images() : int
+duration() : timedelta</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>590</x>
+      <y>20</y>
+      <w>150</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>Instance
+--
+id : str
+timestamp : datetime
+imageType : str
+rows : int
+columns : int
+bitsPerPixel : int
+--
+__init__(id)
+bytes() : int</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>140</x>
+      <y>160</y>
+      <w>80</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>110</y>
+      <w>80</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>530</x>
+      <y>140</y>
+      <w>80</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0</additional_attributes>
+  </element>
+</diagram>
