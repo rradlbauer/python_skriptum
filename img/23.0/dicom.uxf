@@ -5,7 +5,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>20</x>
-      <y>20</y>
+      <y>10</y>
       <w>130</w>
       <h>220</h>
     </coordinates>
@@ -31,7 +31,7 @@ images() : int
     <id>UMLClass</id>
     <coordinates>
       <x>200</x>
-      <y>20</y>
+      <y>10</y>
       <w>140</w>
       <h>220</h>
     </coordinates>
@@ -53,7 +53,7 @@ duration() : timedelta</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>390</x>
-      <y>20</y>
+      <y>10</y>
       <w>150</w>
       <h>220</h>
     </coordinates>
@@ -65,7 +65,7 @@ timestamp : datetime
 description : str
 operator : str
 bodyPart : str
-images : list[Instance]
+instances : list[Instance]
 --
 __init__(id)
 bytes() : int
@@ -77,7 +77,7 @@ duration() : timedelta</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>590</x>
-      <y>20</y>
+      <y>10</y>
       <w>150</w>
       <h>220</h>
     </coordinates>
@@ -98,7 +98,7 @@ bytes() : int</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>140</x>
-      <y>160</y>
+      <y>150</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -109,7 +109,7 @@ bytes() : int</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>330</x>
-      <y>110</y>
+      <y>100</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
@@ -120,7 +120,7 @@ bytes() : int</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>530</x>
-      <y>140</y>
+      <y>130</y>
       <w>80</w>
       <h>30</h>
     </coordinates>
