@@ -54,7 +54,7 @@ duration() : timedelta</panel_attributes>
     <coordinates>
       <x>390</x>
       <y>10</y>
-      <w>150</w>
+      <w>170</w>
       <h>220</h>
     </coordinates>
     <panel_attributes>Series
@@ -76,7 +76,7 @@ duration() : timedelta</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>590</x>
+      <x>620</x>
       <y>10</y>
       <w>150</w>
       <h>220</h>
@@ -119,12 +119,12 @@ bytes() : int</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>530</x>
+      <x>550</x>
       <y>130</y>
-      <w>80</w>
+      <w>90</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;60.0;10.0</additional_attributes>
+    <additional_attributes>10.0;10.0;70.0;10.0</additional_attributes>
   </element>
 </diagram>
