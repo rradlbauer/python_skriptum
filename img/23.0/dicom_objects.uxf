@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>8</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>432</x>
+      <y>0</y>
+      <w>144</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>p1 : Patient
+--
+id : "P1"
+name : "Max Mustermann"
+birthdate : 1.10.2001
+sex : "m"
+size : 1.85
+weight : 85
+smoking : false
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>88</x>
+      <y>176</y>
+      <w>192</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>st1 : Study
+--
+id : "ST1"
+timestamp : 10.11.2025/10:30:00
+physician : "Dr. Huber"
+description : "ständiges Kopfweh"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>744</x>
+      <y>192</y>
+      <w>176</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>st2 : Study
+--
+id : "ST2"
+timestamp : 13.08.2022/11:00
+physician : "Dr. Maier"
+description : "Schienbeinbruch?"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>264</x>
+      <y>304</y>
+      <w>176</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>se2 : Series
+--
+id : "SE2"
+modality : "MR"
+timestamp : 10.11.2025/14:30:00
+description : "axial"
+operator : "S. Sauer"
+bodyPart : "Head"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>296</x>
+      <y>448</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i2 : Instance
+--
+id : "I2"
+timestamp : 10.11.2025/14:30:00
+imageType : "MR monochrom"
+rows : 1024
+columns : 1024
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>32</x>
+      <y>296</y>
+      <w>176</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>se1 : Series
+--
+id : "SE1"
+modality : "XRAY"
+timestamp : 10.11.2025/11:00:00
+description : "sagital"
+operator : "S. Suess"
+bodyPart : "Head"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>32</x>
+      <y>456</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i1 : Instance
+--
+id : "I1"
+timestamp : 10.11.2025/11:00:00
+imageType : "ROE"
+rows : 2048
+columns : 2048
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>352</x>
+      <y>584</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i3 : Instance
+--
+id : "I3"
+timestamp : 10.11.2025/14:30:10
+imageType : "MR monochrom"
+rows : 1024
+columns : 1024
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>400</x>
+      <y>712</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i4 : Instance
+--
+id : "I4"
+timestamp : 10.11.2025/14:30:20
+imageType : "MR monochrom"
+rows : 1024
+columns : 1024
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>184</x>
+      <y>112</y>
+      <w>296</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;80.0;350.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>872</x>
+      <y>312</y>
+      <w>176</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>se4 : Series
+--
+id : "SE4"
+modality : "CT"
+timestamp : 12.01.2021/17:10:00
+description : "Unterschenkel"
+operator : "K. Lang"
+bodyPart : "Head"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>584</x>
+      <y>304</y>
+      <w>176</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>se3 : Series
+--
+id : "SE3"
+modality : "XRAY"
+timestamp : 12.01.2021/15:20:00
+description : "Unterschenkel"
+operator : "S. Suess"
+bodyPart : "Head"</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>576</x>
+      <y>440</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i5 : Instance
+--
+id : "I5"
+timestamp : 12.01.2021/15:20:00
+imageType : "ROE"
+rows : 2048
+columns : 2048
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>872</x>
+      <y>456</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i6 : Instance
+--
+id : "I6"
+timestamp : 12.01.2021/17:10:00
+imageType : "CT"
+rows : 2048
+columns : 2048
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>832</x>
+      <y>592</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i7 : Instance
+--
+id : "I7"
+timestamp : 12.01.2021/17:10:20
+imageType : "CT"
+rows : 2048
+columns : 2048
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>768</x>
+      <y>728</y>
+      <w>176</w>
+      <h>112</h>
+    </coordinates>
+    <panel_attributes>i8 : Instance
+--
+id : "I8"
+timestamp : 12.01.2021/17:10:40
+imageType : "CT"
+rows : 2048
+columns : 2048
+bitsPerPixel : 8</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>520</x>
+      <y>112</y>
+      <w>312</w>
+      <h>96</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>370.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>104</x>
+      <y>248</y>
+      <w>80</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>216</x>
+      <y>248</y>
+      <w>152</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>170.0;70.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>664</x>
+      <y>264</y>
+      <w>144</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;160.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>856</x>
+      <y>264</y>
+      <w>104</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>110.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>664</x>
+      <y>400</y>
+      <w>24</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>104</x>
+      <y>392</y>
+      <w>24</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>336</x>
+      <y>400</y>
+      <w>24</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>432</x>
+      <y>384</y>
+      <w>80</w>
+      <h>216</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>80.0;250.0;80.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>432</x>
+      <y>336</y>
+      <w>136</w>
+      <h>392</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>150.0;470.0;130.0;20.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>944</x>
+      <y>408</y>
+      <w>24</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>848</x>
+      <y>368</y>
+      <w>40</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;280.0;10.0;10.0;30.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>792</x>
+      <y>344</y>
+      <w>96</w>
+      <h>400</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;480.0;20.0;10.0;100.0;10.0</additional_attributes>
+  </element>
+</diagram>
