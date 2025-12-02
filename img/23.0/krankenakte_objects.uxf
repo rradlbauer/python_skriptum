@@ -100,7 +100,7 @@
       <w>200</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>m3 : Messwert
+    <panel_attributes>m4 : Messwert
 --
  temperatur : 37.0
  systole : 120
@@ -117,7 +117,7 @@
       <w>200</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>m3 : Messwert
+    <panel_attributes>m5 : Messwert
 --
  temperatur : 37.0
  systole : 150
