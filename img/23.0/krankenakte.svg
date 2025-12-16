@@ -83,7 +83,7 @@
       ><text x="5" font-size="14px" y="107.85" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       > durchschnittstemperatur() : float</text
       ><text x="5" font-size="14px" y="123.825" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
-      > blutdruck() : tuple[int, int]</text
+      > blutdruck() : tuple[float, float]</text
       ><text x="5" font-size="14px" y="139.8" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"
       > info() : str</text
       ><text x="5" font-size="14px" y="155.775" clip-path="url(#clipPath4)" font-family="sans-serif" stroke="none" xml:space="preserve"

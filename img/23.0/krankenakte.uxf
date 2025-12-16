@@ -17,7 +17,7 @@
  __init__(patient)
  add_messwert(messwert)
  durchschnittstemperatur() : float
- blutdruck() : tuple[int, int]
+ blutdruck() : tuple[float, float]
  info() : str
  pathologische_messwerte() : list[Messwert]</panel_attributes>
     <additional_attributes/>
