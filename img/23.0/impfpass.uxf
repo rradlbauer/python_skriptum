@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>330</x>
+      <y>30</y>
+      <w>290</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Impfung
+--
+datum : date
+impfstoff : str
+dosis : float
+arzt : str
+--
+__init__(impfstoff : str, dosis : float, arzt : str)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>230</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Impfpass
+--
+patient : str
+impfungen : list[Impfung]
+--
+__init__(patient : str)
+neu(impfung : Impfung)
+impfstoffe() : list[str]
+suche(impfstoff : str) : list[Impfung]</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>60</y>
+      <w>110</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
+  </element>
+</diagram>
