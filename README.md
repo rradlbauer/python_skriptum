@@ -46,4 +46,8 @@
 - [28.0 Spezielle Methoden](skriptum/28.0_spezielle_Methoden.md)
 - [29.0 Container](skriptum/29.0_Container.md)
 
+## Anhang
+
+- [Ausgewählte Musterlösugen](skriptum/A01_Musterlösungen.md)
+
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)

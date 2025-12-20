@@ -1,4 +1,4 @@
-# Musterlösugen
+# Ausgewählte Musterlösugen
 
 In diesem Anhang befinden sich Musterlösungen zu ausgewählten Übungen.
 
