@@ -13,7 +13,7 @@
 --
  name : str
  geburt : date
- geschlecht : char
+ geschlecht : str
  mutter : Person
  vater : Person
  kinder : list[Person]
