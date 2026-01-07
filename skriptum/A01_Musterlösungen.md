@@ -5,7 +5,7 @@ In diesem Anhang befinden sich Musterlösungen zu ausgewählten Übungen.
 Es wird empfohlen, die Übungen zunächst selbst zu bearbeiten und
 erst bei Bedarf einen Blick in die Musterlösungen zu werfen.
 
-### Musterlösung UE_23.0_2: Impfpass
+### Musterlösung UE_23.0_3: Impfpass
 
 ````python
 from datetime import date
