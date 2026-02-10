@@ -1,0 +1,214 @@
+# Übungsreihe: 9.2 While-Schleife
+
+## Lernziele
+Nach diesen Übungen solltest du:
+- verstehen, wann und warum man `while` benutzt
+- wissen, wie eine Schleife korrekt beendet wird
+- `break` und `continue` sinnvoll einsetzen können
+- typische Fehler wie Endlosschleifen erkennen
+
+---
+
+## Aufgabe 1 – Verstehen (Lesen & Denken)
+
+**Frage:**  
+Was passiert in diesem Programm? Wann endet die Schleife?
+
+```python
+zahl = 1
+while zahl <= 5:
+    print(zahl)
+    zahl = zahl + 1
+```
+
+### Erklärung
+Die Schleife läuft so lange, wie `zahl <= 5` wahr ist.  
+Nach jedem Durchlauf wird `zahl` um 1 erhöht.  
+Sobald `zahl` den Wert 6 erreicht, ist die Bedingung falsch und die Schleife endet.
+
+### Ausgabe
+```
+1
+2
+3
+4
+5
+```
+
+---
+
+## Aufgabe 2 – Lückentext (Basis)
+
+Ergänze den Code so, dass die Zahlen von 0 bis 4 ausgegeben werden.
+
+```python
+i = 0
+while _______:
+    print(i)
+    i = _______
+```
+
+### Musterlösung
+
+```python
+i = 0
+while i < 5:
+    print(i)
+    i = i + 1
+```
+
+---
+
+## Aufgabe 3 – Rechnen mit while
+
+Schreibe ein Programm, das die Summe aller Zahlen von 1 bis 10 berechnet.
+
+### Tipp
+Du brauchst:
+- eine Zählvariable
+- eine Summenvariable
+
+### Musterlösung
+
+```python
+zahl = 1
+summe = 0
+
+while zahl <= 10:
+    summe = summe + zahl
+    zahl = zahl + 1
+
+print("Die Summe ist:", summe)
+```
+
+---
+
+## Aufgabe 4 – Interaktive Schleife (Eingaben)
+
+Der Benutzer soll Eingaben machen können.  
+Das Programm läuft so lange, bis `"ende"` eingegeben wird.
+
+### Musterlösung
+
+```python
+weiter = True
+
+while weiter:
+    eingabe = input("Gib etwas ein: ")
+    if eingabe == "ende":
+        weiter = False
+    else:
+        print("Du hast", eingabe, "eingegeben.")
+```
+
+---
+
+## Aufgabe 5 – break verstehen
+
+Was macht dieses Programm?
+
+```python
+while True:
+    text = input("Eingabe: ")
+    if text == "stop":
+        break
+    print(text)
+```
+
+### Erklärung
+- `while True` erzeugt eine Endlosschleife
+- `break` beendet die Schleife sofort
+- Die Eingabe `"stop"` wird nicht ausgegeben
+
+---
+
+## Aufgabe 6 – continue anwenden
+
+Erweitere das Programm so, dass:
+- `"weiter"` nicht ausgegeben wird
+- `"ende"` das Programm beendet
+- alle anderen Eingaben ausgegeben werden
+
+### Musterlösung
+
+```python
+while True:
+    eingabe = input("Eingabe: ")
+
+    if eingabe == "ende":
+        break
+
+    if eingabe == "weiter":
+        continue
+
+    print("Du hast", eingabe, "eingegeben.")
+```
+
+---
+
+## Aufgabe 7 – Fehler finden (Debugging)
+
+Warum ist dieses Programm problematisch?
+
+```python
+x = 1
+while x < 10:
+    print(x)
+```
+
+### Antwort
+Das Programm erzeugt eine Endlosschleife, da `x` nie verändert wird.
+
+### Korrektur
+
+```python
+x = 1
+while x < 10:
+    print(x)
+    x = x + 1
+```
+
+---
+
+## Aufgabe 8 – Countdown
+
+Schreibe ein Programm, das einen Countdown von 5 bis 1 ausgibt und danach `"Start!"` schreibt.
+
+### Musterlösung
+
+```python
+zahl = 5
+
+while zahl > 0:
+    print(zahl)
+    zahl = zahl - 1
+
+print("Start!")
+```
+
+---
+
+## Aufgabe 9 – Spiel: Zahlenraten
+
+### Aufgabenstellung
+- Eine feste Zahl (z. B. 7) ist die geheime Zahl
+- Der Benutzer rät so lange, bis die richtige Zahl eingegeben wird
+- Nach jedem falschen Versuch gibt es eine Rückmeldung
+- Das Spiel endet bei der richtigen Zahl
+
+### Musterlösung
+
+```python
+geheim = 7
+
+while True:
+    tipp = int(input("Rate die Zahl: "))
+
+    if tipp < geheim:
+        print("Zu klein!")
+    elif tipp > geheim:
+        print("Zu groß!")
+    else:
+        print("Richtig! Spiel beendet.")
+        break
+```
