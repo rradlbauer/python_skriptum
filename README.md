@@ -46,8 +46,9 @@
 - [28.0 Spezielle Methoden](skriptum/28.0_spezielle_Methoden.md)
 - [29.0 Container](skriptum/29.0_Container.md)
 
-## Anhang
+## Jupyter Notebooks
 
-- [Ausgewählte Musterlösugen](skriptum/A01_Musterlösungen.md)
+- [Verwaltungsprogramm](notebooks/patientenverwaltung.ipynb)
+- [Impfpass](notebooks/Impfpass.ipynb)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
