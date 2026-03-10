@@ -46,22 +46,23 @@
     <coordinates>
       <x>230</x>
       <y>240</y>
-      <w>270</w>
-      <h>100</h>
+      <w>300</w>
+      <h>120</h>
     </coordinates>
     <panel_attributes>MR_Scanner
 --
  feldstaerke : float
  durchmesser : int
+ laenge : int
  software_version : str
 --
- __init__(id, tesla, durchmesser, laenge)</panel_attributes>
+ __init__(id, feldstaerke, durchmesser, laenge)</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>530</x>
+      <x>550</x>
       <y>240</y>
       <w>180</w>
       <h>90</h>
@@ -90,11 +91,11 @@
     <coordinates>
       <x>400</x>
       <y>180</y>
-      <w>230</w>
+      <w>250</w>
       <h>80</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;30.0;210.0;30.0;210.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;30.0;230.0;30.0;230.0;60.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
