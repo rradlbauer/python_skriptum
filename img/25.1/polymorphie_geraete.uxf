@@ -54,7 +54,7 @@
 --
  feldstaerke : float
  durchmesser : int
- software_version : str
+ software_version : float
 --
  __init__(id, tesla, durchmesser, laenge)
 * naechste_wartung() : date*
