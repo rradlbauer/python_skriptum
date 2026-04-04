@@ -1,3 +1,10 @@
+# This script inserts a white rectangle into all SVG files in subdirectories of '../img'
+# to improve visibility when displayed on dark backgrounds.
+# It checks if the rectangle already exists to avoid duplicate insertions.
+# The rectangle is defined with 100% width and height, filled with white and with a transparent stroke.
+
+
+
 import re
 import os
 

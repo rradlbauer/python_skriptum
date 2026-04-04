@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>20</x>
+      <y>20</y>
+      <w>510</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Eingabe
+--
+int(promt : str, min : int, max : int) : int
+float(prompt : str, min : float, max : float) : int
+datum(prompt : str, format : str, min : date, max : date) : date
+zeit(prompt : str, format : str, min : time, max : time) : time
+datum_zeit(prompt : str, format : str, min : datetime, max : datetime) : datetime
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

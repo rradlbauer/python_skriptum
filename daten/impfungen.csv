@@ -1,0 +1,81 @@
+Patienten ID;Impfstoff;Datum;Arzt
+1;COVID-19 (Comirnaty);15.01.2021;Dr. Mayer
+2;Influenza;2020-10-12;Dr. Schuster
+3;FSME;18/04/2019;Dr. Huber
+4;Tetanus;12-06-2018;Dr. Berger
+5;Masern;05.03.1995;Dr. König
+6;COVID-19 (Spikevax);2021-03-22;Dr. Mayer
+7;Influenza;11/11/2020;Dr. Schuster
+8;Hepatitis B;1998-09-14;Dr. Gruber
+9;FSME;07-05-2017;Dr. Huber
+10;Tetanus;21.08.2016;Dr. Berger
+11;COVID-19 (Comirnaty);14/02/2021;Dr. Mayer
+12;Influenza;2021-10-20;Dr. Schuster
+13;Masern;03-04-2000;Dr. König
+14;Hepatitis A;17.06.2005;Dr. Gruber
+15;FSME;2018-05-09;Dr. Huber
+16;Tetanus;10/10/2014;Dr. Berger
+17;COVID-19 (Spikevax);2022-01-11;Dr. Mayer
+28;Influenza;19.10.2019;Dr. Schuster
+19;Hepatitis B;02/02/2003;Dr. Gruber
+20;Masern;1996-03-15;Dr. König
+1;Influenza;2022-10-03;Dr. Schuster
+2;COVID-19 (Comirnaty);03.02.2021;Dr. Mayer
+3;Tetanus;15/07/2015;Dr. Berger
+4;FSME;2019-04-22;Dr. Huber
+5;Hepatitis A;12-09-2004;Dr. Gruber
+6;Masern;1997-05-18;Dr. König
+7;COVID-19 (Spikevax);2021-04-05;Dr. Mayer
+8;Influenza;22/10/2020;Dr. Schuster
+9;Tetanus;08.06.2012;Dr. Berger
+10;Hepatitis B;2001-11-30;Dr. Gruber
+11;FSME;14-03-2016;Dr. Huber
+12;COVID-19 (Comirnaty);2021-06-18;Dr. Mayer
+13;Influenza;17.10.2022;Dr. Schuster
+14;Tetanus;05/05/2013;Dr. Berger
+15;Masern;1994-02-09;Dr. König
+16;Hepatitis A;2006-07-21;Dr. Gruber
+17;FSME;12.04.2018;Dr. Huber
+18;COVID-19 (Spikevax);2022-02-02;Dr. Mayer
+19;Influenza;28/10/2021;Dr. Schuster
+20;Tetanus;2010-09-14;Dr. Berger
+1;FSME;06-04-2019;Dr. Huber
+2;Hepatitis B;1999-08-19;Dr. Gruber
+3;Influenza;21.10.2018;Dr. Schuster
+4;COVID-19 (Comirnaty);2021-05-11;Dr. Mayer
+5;Tetanus;18/06/2011;Dr. Berger
+6;FSME;2017-03-27;Dr. Huber
+7;Hepatitis A;10.09.2008;Dr. Gruber
+8;Masern;1995-12-01;Dr. König
+9;COVID-19 (Spikevax);2021-12-20;Dr. Mayer
+10;Influenza;25/10/2022;Dr. Schuster
+11;Tetanus;14-07-2013;Dr. Berger
+12;FSME;2016-04-30;Dr. Huber
+33;Hepatitis B;03.03.2002;Dr. Gruber
+14;COVID-19 (Comirnaty);2021-08-09;Dr. Mayer
+15;Influenza;19.10.2019;Dr. Schuster
+16;Masern;1996-06-12;Dr. König
+17;Tetanus;11/11/2015;Dr. Berger
+18;Hepatitis A;2007-05-03;Dr. Gruber
+19;FSME;22.04.2018;Dr. Huber
+20;COVID-19 (Spikevax);2022-03-14;Dr. Mayer
+1;Hepatitis B;1998-01-22;Dr. Gruber
+2;Masern;1993-02-17;Dr. König
+3;COVID-19 (Comirnaty);2021-09-01;Dr. Mayer
+4;Influenza;27.10.2020;Dr. Schuster
+5;FSME;13/04/2016;Dr. Huber
+6;Tetanus;09.09.2014;Dr. Berger
+7;Hepatitis B;2000-11-05;Dr. Gruber
+8;COVID-19 (Spikevax);2022-01-25;Dr. Mayer
+9;Influenza;20/10/2021;Dr. Schuster
+10;Masern;1992-05-10;Dr. König
+11;Tetanus;2014-08-18;Dr. Berger
+12;FSME;2018-05-14;Dr. Huber
+13;Hepatitis A;2005-10-03;Dr. Gruber
+14;COVID-19 (Comirnaty);2021-11-22;Dr. Mayer
+15;Influenza;18.10.2018;Dr. Schuster
+16;Masern;1997-08-25;Dr. König
+17;Tetanus;2012-06-05;Dr. Berger
+18;FSME;2019-04-10;Dr. Huber
+19;Hepatitis B;2003-12-15;Dr. Gruber
+20;COVID-19 (Spikevax);2022-04-18;Dr. Mayer
