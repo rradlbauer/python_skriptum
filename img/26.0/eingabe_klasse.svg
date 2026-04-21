@@ -24,9 +24,9 @@
       >Eingabe</text
       ><path fill="none" d="M1 23.975 L509 23.975" clip-path="url(#clipPath2)"
       /><text x="5" font-size="14px" y="38.95" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
-      >int(promt : str, min : int, max : int) : int</text
+      >ganzzahl(prompt : str, min : int, max : int) : int</text
       ><text x="5" font-size="14px" y="54.925" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
-      >float(prompt : str, min : float, max : float) : float</text
+      >zahl(prompt : str, min : float, max : float) : float</text
       ><text x="5" font-size="14px" y="70.9" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
       >datum(prompt : str, format : str, min : date, max : date) : date</text
       ><text x="5" font-size="14px" y="86.875" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none" xml:space="preserve"
