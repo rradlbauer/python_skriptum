@@ -12,7 +12,7 @@
     <panel_attributes>Eingabe
 --
 int(promt : str, min : int, max : int) : int
-float(prompt : str, min : float, max : float) : int
+float(prompt : str, min : float, max : float) : float
 datum(prompt : str, format : str, min : date, max : date) : date
 zeit(prompt : str, format : str, min : time, max : time) : time
 datum_zeit(prompt : str, format : str, min : datetime, max : datetime) : datetime
