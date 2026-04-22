@@ -42,7 +42,7 @@
 - [25.0 Vererbung](skriptum/25.0_Vererbung.md)
 - [25.1 Polymorphie](skriptum/25.1_Polymorphie.md)
 - [26.0 Exceptions](skriptum/26.0_Exceptions.md)
-- [27.0 Datenkapselung](skriptum/27.0_Datenkapselung.md)
+- [27.0 Grafische Benutzeroberfläche mit Tkinter](skriptum/27.0_Tkinter.md)
 - [28.0 Spezielle Methoden](skriptum/28.0_spezielle_Methoden.md)
 - [29.0 Container](skriptum/29.0_Container.md)
 
