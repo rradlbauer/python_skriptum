@@ -44,7 +44,7 @@
 - [26.0 Exceptions](skriptum/26.0_Exceptions.md)
 - [27.0 Grafische Benutzeroberfläche mit Tkinter](skriptum/27.0_Tkinter.md)
 - [28.0 Spezielle Methoden](skriptum/28.0_spezielle_Methoden.md)
-- [29.0 Container](skriptum/29.0_Container.md)
+- [29.0 Parameter](skriptum/29.0_parameter.md)
 
 ## Jupyter Notebooks
 
