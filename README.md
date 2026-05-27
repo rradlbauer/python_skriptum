@@ -50,5 +50,6 @@
 
 - [Verwaltungsprogramm](notebooks/patientenverwaltung.ipynb)
 - [Impfpass](notebooks/Impfpass.ipynb)
+- [Roboter-Wettbewerb](notebooks/wettbewerb/RoboterWettbewerb.ipynb)
 
  [>>](skriptum/00.0_UeberDiesesSkriptum.md)
